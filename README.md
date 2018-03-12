@@ -650,6 +650,38 @@ Esta entrevista es para conocerte un poco, sobre tu interacción con los bancos 
 
 [Carpeta de resultados de formularios](https://drive.google.com/drive/folders/1lvlHZIKZDOm6Gxey7Z40HbXbGXOQjDVS?usp=sharing).
 
+#### Mapa de afinidad
+
+El mapa de afinidad es una técnica utilizada para encontrar el problema, situación o cuestión a resolver.
+
+Este es nuestro mapa de afinidad según lo encontrado en las entrevistas y formularios:
+
+[Mapa de afinidad](https://drive.google.com/file/d/1jiy90GncHccfkQk8_DTNjBkGGpKVJavH/view?usp=sharing).
+
+#### User Persona
+
+Para crear una mejor experiencia, se decidió armar un user persona el cual se basó en la data anteriormente mostrada.
+
+![User Persona](assets/img/userperson.JPG)
+
+#### Story Board
+
+![User Persona](assets/img/storyboard1.jpg)
+![User Persona](assets/img/storyboard2.jpg)
+
+
+#### Prototipo en papel 
+
+![Prototipo](assets/img/prototipo-papel/papel.jpg)
+![Prototipo](assets/img/prototipo-papel/papel1.jpg)
+![Prototipo](assets/img/prototipo-papel/papel2.jpg)
+![Prototipo](assets/img/prototipo-papel/papel3.jpg)
+![Prototipo](assets/img/prototipo-papel/papel4.jpg)
+![Prototipo](assets/img/prototipo-papel/papel57.jpg)
+![Prototipo](assets/img/prototipo-papel/papel6.jpg)
+![Prototipo](assets/img/prototipo-papel/papel9.jpg)
+![Prototipo](assets/img/prototipo-papel/papel10.jpg)
+
 
 
 
