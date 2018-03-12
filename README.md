@@ -590,6 +590,7 @@ Esta entrevista es para conocerte un poco, sobre tu interacción con los bancos 
   - Zona en la que vive
   - ¿Qué haces en tu tiempo libre?
 
+
 * Detalied Interview Ecology:
 
   - ¿Alguna vez te ha interesado el cuidado del medio ambiente?
@@ -648,6 +649,96 @@ Esta entrevista es para conocerte un poco, sobre tu interacción con los bancos 
 [Carpeta de entrevistas personales](https://drive.google.com/drive/folders/1tgTpDQuvlQjGgaasxAcW8MTGvARl99aQ?usp=sharing).
 
 [Carpeta de resultados de formularios](https://drive.google.com/drive/folders/1lvlHZIKZDOm6Gxey7Z40HbXbGXOQjDVS?usp=sharing).
+
+
+
+
+
+## Proceso de Ideación ##
+
+¿ Cómo hicimos el Prototipo de Contenido ?
+
+
+    1.-  Elaboración de propuestas de : Statements / Hmw  / What If / Features
+
+    - Técnica: Elaboración de cuadro
+    - Responsabilidad y participación:  
+      Silvia Puente de la Vega Vilca
+      Alexandra Calderon
+
+    - Fecha :19/02/2018 a 21/02/2018
+    - Tiempo:60 min c/u.
+
+    2.-  Conversación interna  sobre propuestas:
+
+    - Técnica: Conversación entre las dos
+    - Responsabilidad y participación:  
+      Silvia Puente de la Vega Vilca
+      Alexandra Calderon
+    - Fecha : 23/02/2018 
+    - Tiempo: 10 min c/u.
+
+
+    3.- Elaboración y propuesta de Prototipo de contenido
+
+    - Técnica 1: Escribir posibles notas
+    - Técnica 2: Conversación en remoto
+    - Responsabilidad y participación:
+      Silvia Puente de la Vega Vilca
+      Alexandra Calderon
+    - Fecha :24/02/2018 
+    - Tiempo:30 min.
+
+
+    4.- Propuesta de prototipo de contenido  a otro grupo para recibir feedback
+
+    - Técnica 1:Exposición verbal directa una a una.
+    - Técnica 2:Toma de notas
+    - Responsabilidad y participación:  
+      Silvia Puente de la Vega Vilca
+      Alexandra Calderon
+    - Fecha :26/02/2018 
+    -  Tiempo:30 min.
+
+
+    5.- Coordinación para conclusiones de prototipo de contenido  en grupo : 
+    - Técnica: Reunión 
+    - Responsabilidad y participación: 	
+      Silvia Puente de la Vega Vilca
+      Alexandra Calderon
+    - Fecha:27/02/2018 Viernes
+    - Tiempo:30 min.
+
+
+    6.- Actualización del cuadro de Exploración Brainstorming con técnicas : ( Statements-HMW-What if – Features )
+
+    - Técnicas:Recopilación y revisión de diapositivas de clase.
+    - Actividad: Integración y actualización de cuadro: 
+      statements/hmw/what if/features  incluyendo actualizaciones según coordinaciones realizadas en grupo y el proceso guía de clase y los aportes de todas las integrantes del grupo y el propio.
+
+    - Responsable de elaboración:
+      Silvia Puente de la Vega Vilca
+      Alexandra Calderon
+    - Responsables de revisión:
+      Gonzalo (Teacher)
+      Silvia Puente de la Vega Vilca
+      Alexandra Calderon
+    - Fecha : 28/02/2018 
+    - Tiempo: 40 min.
+    - Archivo:Brainstorming_Statements - HMW - What if – Features.xlsx
+
+Ubicación archivo  ( link ):
+
+[Documento](https://drive.google.com/drive/folders/1pyEdGdqwjObc9B4u9gvfbmUwkplPOdyK).
+
+
+
+
+
+
+
+
+
 
 
 
