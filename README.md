@@ -56,10 +56,75 @@ Además, te piden que llegues a la reunión de kick - off con un plan propuesto 
 
 Empezamos analizando el reto, por lo cual decidimos hacer una investigación previa, armando los BMC de cada uno de los bancos modelo (Nequi, Nubank y Simple); también investigar sobre las característcas de un millennial y la relación de este con la banca. Luego, hicimos un Plan de Research, un modelo de Entrevista y el BMC de nuestro nuevo banco, basándonos en lo encontrado en la investigación previa. Después, pasamos a las *entrevistas a profundidad y formularios con usuarios reales*. Con la data obtenida, se realizó un Mapa de Afinidad, en el cual se encontró que a los millennials no le gusta perder el tiempo, no les gustan los papeleos y formalidades en la banca, sí usan banca por Internet y están interesados en *un banco que sea eco friendly*. Con todo esto, pasamos a prototipar. Primero hicimos el prototipo en papel, se testeó con usuarios e iteró en base a ello. Seguido de esto, realizamos el *prototipo de alta fidelidad* digitalizado e interacctivo, el cual también se testeó y se hicieron algunas iteraciones. Este nuevo prototipo se volvió a testear y obtuvimos un mejor feedback para una siguiente mejora.
 
-
-1. **Link de Google Drive:** 
+ **Link de Google Drive:** 
 
     - [Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1-bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing) 
 
 
+## Investigación previa
+
+En el reto presentado se nos indica que tomemos inspiración de Nequi, Nubank y Simple, bancos 100% digitales que han sido un éxito.
+
+### Nequi
+
+Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta plataforma y la apoya, pero es una nueva alternativa que tiene vida propia: su propio equipo, estructura, metodologías, tecnología y espacio de trabajo.
+
+#### Business Model Canvas
+
+1. *Customer Segments:*
+	          - Millenials.
+            - Otros bancos asociados.
+            
+2. *Customer Relationship:*
+            - Automatización de la Banca (Flexibilidad).
+            - Social Media.
+
+3. *Channels:*
+            - App y Web.
+
+4. *Value Proposition:*
+            - Costo cero por creación de cuenta.
+            - Facilidad de acceso.
+            - 5 formas de pagar (envíos, pagar por PSE, con código QR en un       datáfono, por recarga de otro usuario, por recarga en efectivo).
+            - Giros desde tu Banca por app y web, sin costo.
+            - Tres herramientas para que puedas manejar la plata a tu propio      ritmo.
+            - Los bolsillos te sirven para separar la plata (Agenda monetaria)
+            - Metas de ahorro.
+            - Guardadito: mini montos, fáciles de usar que Nequi te pone a la  vista. 
+5. *Key Partners:*
+            - Bancolombia (permite sacar tu dinero sin costos, ni comisiones).
+            - Bancos asociados (se cobra el 1% del movimiento).
+
+6. *Key Activities:*
+            - Actualizar su plataforma.
+            - Mantenimiento de su plataforma.
+            - Investigaciones constantes para conocer al cliente colombiano y     paraguayo y sus necesidades respectiamente.
+            - Servidores.
+            - Hacer promociones y eventos. 
+            - Mantener relación con el Estado.
+            - Mantener la seguridad del banco.
+
+7. *Key Resources:*
+	          - Físicos: Almacenes, oficinas, instalaciones, maquinaria, etc.
+	          - Intelectual: Patente, marca, etc.
+	          - Recursos humanos.
+	          - Finanzas: mercado, expansión.
+	          - Convenios.
+
+8. *Cost Structure:* 
+	          - Recursos Físicos.
+	          - Recursos Humanos.
+	          - Convenios.
+	          - Patente, marca, etc.
+            - Permisos.
+            - Pubilicidad.
+            - Investigación.
+            - Expansión.
+            - Maquinarias.
+
+9. *Revenue Stream:*
+	          - Enviar dinero de tu cuenta Nequi a bancos (salvo Bancolombia)        tiene costo.
+	          - Quitarle los topes a tu cuenta.
+
+   
 
