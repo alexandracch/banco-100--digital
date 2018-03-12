@@ -2,15 +2,15 @@
 
 ![Yaku](assets/img/logo/yaku*logo.JPG)
 
-* Track: _Especialización UX Design_
-* Curso: _Conociendo los negocios_
-* Unidad: _Lecciones básicas de negocios_
-* Alummnas: _Nombres:_
+* **Track:** _Especialización UX Design_
+* **Curso:** _Conociendo los negocios_
+* **Unidad:** _Lecciones básicas de negocios_
+* **Alummnas:** _Nombres:_
 
                 * Alexandra Calderón Chumbes
                 * Silvia Puente de la Vega
 
-*
+***
 
 ## Reto
 
@@ -40,25 +40,13 @@ Además, te piden que llegues a la reunión de kick * off con un plan propuesto 
 
 * Dentro de la carpeta `assets` se encuentra la carpeta `img` donde podrá encontrar las imágenes utilizadas en el proyecto.
 
-
-## Plan de acción
-
-### Para la investigación
-
-  * En la sección de 
-
-
-## Tiempos estimados
-
-* Investigación: 1 día
-
 ## Flujo de trabajo
 
-Empezamos analizando el reto, por lo cual decidimos hacer una investigación previa, armando los BMC de cada uno de los bancos modelo (Nequi, Nubank y Simple); también investigar sobre las característcas de un millennial y la relación de este con la banca. Luego, hicimos un Plan de Research, un modelo de Entrevista y el BMC de nuestro nuevo banco, basándonos en lo encontrado en la investigación previa. Después, pasamos a las entrevistas a profundidad y formularios con usuarios reales. Con la data obtenida, se realizó un Mapa de Afinidad, en el cual se encontró que a los millennials no le gusta perder el tiempo, no les gustan los papeleos y formalidades en la banca, sí usan banca por Internet y están interesados en un banco que sea eco friendly. Con todo esto, pasamos a prototipar. Primero hicimos el prototipo en papel, se testeó con usuarios e iteró en base a ello. Seguido de esto, realizamos el prototipo de alta fidelidad digitalizado e interacctivo, el cual también se testeó y se hicieron algunas iteraciones. Este nuevo prototipo se volvió a testear y obtuvimos un mejor feedback para una siguiente mejora.
+Empezamos analizando el reto, por lo cual decidimos hacer una investigación previa, armando los BMC de cada uno de los bancos modelo (Nequi, Nubank y Simple); también investigar sobre las característcas de un millennial y la relación de este con la banca. Luego, hicimos un Plan de Research, un modelo de Entrevista y el BMC de nuestro nuevo banco, basándonos en lo encontrado en la investigación previa. Después, pasamos a las **entrevistas a profundidad y formularios con usuarios reales**. Con la data obtenida, se realizó un Mapa de Afinidad, en el cual se encontró que a los millennials no le gusta perder el tiempo, no les gustan los papeleos y formalidades en la banca, sí usan banca por Internet y están interesados en **un banco que sea eco friendly**. Con todo esto, pasamos a prototipar. Primero hicimos el prototipo en papel, se testeó con usuarios e iteró en base a ello. Seguido de esto, realizamos el **prototipo de alta fidelidad** digitalizado e interacctivo, el cual también se testeó y se hicieron algunas iteraciones. Este nuevo prototipo se volvió a testear y obtuvimos un mejor feedback para una siguiente mejora.
 
- Link de Google Drive: 
+ **Link de Google Drive:** 
 
-    * [Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1*bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing) 
+    ![Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1*bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing) 
 
 
 ## Investigación previa
@@ -71,47 +59,47 @@ Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta 
 
 #### Business Model Canvas
 
-1. Customer Segments:
+1. **Customer Segments:**
 	          * Millenials.
             * Otros bancos asociados.
 
-2. Customer Relationship:
+2. **Customer Relationship:**
             * Automatización de la Banca (Flexibilidad).
             * Social Media.
 
-3. Channels:
+3. **Channels:**
             * App y Web.
 
-4. Value Proposition:
+4. **Value Proposition:**
             * Costo cero por creación de cuenta.
             * Facilidad de acceso.
-            * 5 formas de pagar (envíos, pagar por PSE, con código QR en un       datáfono, por recarga de otro usuario, por recarga en efectivo).
+            * 5 formas de pagar (envíos, pagar por PSE, con código QR en un datáfono, por recarga de otro usuario, por recarga en efectivo).
             * Giros desde tu Banca por app y web, sin costo.
             * Tres herramientas para que puedas manejar la plata a tu propio      ritmo.
             * Los bolsillos te sirven para separar la plata (Agenda monetaria)
             * Metas de ahorro.
             * Guardadito: mini montos, fáciles de usar que Nequi te pone a la  vista. 
-5. Key Partners:
+5. **Key Partners:**
             * Bancolombia (permite sacar tu dinero sin costos, ni comisiones).
             * Bancos asociados (se cobra el 1% del movimiento).
 
-6. Key Activities:
+6. **Key Activities:**
             * Actualizar su plataforma.
             * Mantenimiento de su plataforma.
-            * Investigaciones constantes para conocer al cliente colombiano y     paraguayo y sus necesidades respectiamente.
+            * Investigaciones constantes para conocer al cliente colombiano y paraguayo y sus necesidades respectiamente.
             * Servidores.
             * Hacer promociones y eventos. 
             * Mantener relación con el Estado.
             * Mantener la seguridad del banco.
 
-7. Key Resources:
+7. **Key Resources:**
 	          * Físicos: Almacenes, oficinas, instalaciones, maquinaria, etc.
 	          * Intelectual: Patente, marca, etc.
 	          * Recursos humanos.
 	          * Finanzas: mercado, expansión.
 	          * Convenios.
 
-8. Cost Structure:
+8. **Cost Structure:**
 	          * Recursos Físicos.
 	          * Recursos Humanos.
 	          * Convenios.
@@ -122,8 +110,8 @@ Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta 
             * Expansión.
             * Maquinarias.
 
-9. Revenue Stream:
-	          * Enviar dinero de tu cuenta Nequi a bancos (salvo Bancolombia)        tiene costo.
+9. **Revenue Stream:**
+	          * Enviar dinero de tu cuenta Nequi a bancos (salvo Bancolombia) tiene costo.
 	          * Quitarle los topes a tu cuenta.
 
 ### Nubank
@@ -132,39 +120,39 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
 
 #### Business Model 
 
-1. Customer Segments:
+1. **Customer Segments:**
 
             * Millenials brasileños
             * Usuarios tecnológicos en Brasil.
             * Bancos y empresas asociadas.
 
-2. Customer Relationship:
+2. **Customer Relationship:**
 
             * Automatización de la Banca (Flexibilidad).
             * Social Media.
 
-3. Channels:
+3. **Channels:**
 
            * App y Web.
 
-4. Value Proposition:
+4. **Value Proposition:**
            * Facilidad de acceso.
            * No hay costo de creación de cuenta ni de mantenimiento.
            * Obtener la tarjeta morada de Mastercard o Nubank Mastercard, la cual es aceptada en más de 30 millones de establecimientos en todo el mundo y que también le da acceso a los beneficios de la bandera   Mastercard.
            * Nunbank Rewards, sistema de gamification con el cuál cada punto equivale a un real. Tus puntos sirven para pagar otros servicios asociados como Uber, Netflix, etc. y/o borrar historiales de movimientos.
           
-5. Key Partners:
+5. **Key Partners:**
 
-           * Sequoia Capital, Kaszek Ventures, Tiger Global Managment, Founders   Fund, Goldman Sachs, QED Los inversores y DST Global.
+           * Sequoia Capital, Kaszek Ventures, Tiger Global Managment, Founders Fund, Goldman Sachs, QED Los inversores y DST Global.
 
-6. Key Activities:
+6. **Key Activities:**
 
            * Actualizar su plataforma
            * Mantenimiento de su plataforma
            * Servidores
            * Hacer promos y eventos 
         
-7. Key Resources: 
+7. **Key Resources:** 
 
 	         * Oficinas.
 	         * Maquinarias y Servidores.
@@ -172,7 +160,7 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
 	         * Patentes.
            * La plataforma.
 
-8. Cost Structure:
+8. **Cost Structure:**
 	         * Oficinas
 	         * Maquinarias y Servidores
 	         * Recursos humanos
@@ -180,7 +168,7 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
 	         * Convenios
         
 
-9. Revenue Stream:
+9. **Revenue Stream:**
 	         * Cuando el cliente realiza una compra con su tarjeta, recibe del establecimiento, a través de la bandera Mastercard, un pequeño porcentaje de ese valor.
            * Cuando el cliente escoge por financiar parte o el total del valor de su factura, recibe intereses, incluso por debajo del mercado, sobre el valor que se financió.
 
@@ -191,25 +179,25 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 
 #### Business Model Canvas
 
-1. Customer Segments:
+1. **Customer Segments:**
 	        * Millenials.
           * Otros bancos asociados.
 
-2. Customer Relationship:
+2. **Customer Relationship:**
           * Automatización de la Banca (Flexibilidad).
           * Social Media.
 
-3. Channels:
+3. **Channels:**
           * App y Web.
 
-4. Value Proposition:
+4. **Value Proposition:**
 
           * Facilidad de acceso
           * 0 Comisiones, no cobra por honorarios.
           * Giros desde tu Banca por app y web, sin costo.
-          * Simple proporciona todo lo demás(Los fondos en su cuenta Simple       están en manos de uno de nuestros bancos asociados, The Bancorp       Bank o Compass Bank, Member FDIC), incluida la tarjeta Visa.
+          * Simple proporciona todo lo demás(Los fondos en su cuenta Simple están en manos de uno de nuestros bancos asociados, The Bancorp Bank o Compass Bank, Member FDIC), incluida la tarjeta Visa.
 
-5. Key Activities:
+5. **Key Activities:**
            
            * Oficinas.
 	         * Maquinarias y Servidores.
@@ -217,12 +205,12 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 	         * Patentes.
            * La plataforma.
 
-6. Key Partners:
+6. **Key Partners:**
 
            * BBVA.
            * Bancos y empresas asociadas.
 
-7. Key Resources:
+7. **Key Resources:**
 
 	         * Oficinas.
 	         * Maquinarias y Servidores.
@@ -230,7 +218,7 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 	         * Adtualizar la plataforma.
            * Investigar su mercado.
  
-8. Cost Structure:
+8. **Cost Structure:**
 
 	        * Oficinas.
 	        * Maquinarias y Servidores.
@@ -238,7 +226,7 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 	        * Patentes.
 	        * Convenios.
 
-9. Revenue Stream:
+9. **Revenue Stream:**
 
 	        * Comparten intereses con otros bancos.
 	        * Cuando desliza su tarjeta de débito, el comerciante paga una tarifa   de servicio (llamada intercambio) al banco emisor. Nuestros socios    dividen esto con nosotros.
@@ -254,21 +242,21 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 
 * Otro de los resultados del análisis refleja la afinidad de los millennials con la tecnología y los servicios de mensajería instantánea. La principal vía de comunicación entre estas instituciones y sus clientes son las páginas web y las aplicaciones que han desarrollado los bancos para smartphones , donde una buena o mala aplicación móvil puede sellar la imagen de la empresa frente a sus clientes más jóvenes. Entre los millennials chilenos, la red preferida por los usuarios es Facebook por sobre otras similares, como Twitter. Por cada usuario en esta última hay dos que prefieren utilizar Facebook, para enterarse de noticias y servicios disponibles en su banco.
 
-* Apuesta digital: Este cambio de escenario para la banca necesita de nuevas estrategias para lograr el éxito, en un mercado donde los clientes van de una institución a otra más fácilmente que antes. Por lo mismo, las prioridades han cambiado y también las inversiones en los distintos servicios que ofrecen a esta generación.
+* **Apuesta digital:** Este cambio de escenario para la banca necesita de nuevas estrategias para lograr el éxito, en un mercado donde los clientes van de una institución a otra más fácilmente que antes. Por lo mismo, las prioridades han cambiado y también las inversiones en los distintos servicios que ofrecen a esta generación.
 
-* Que sea transparente: Los Millennials quieren saber: ¿Qué van a pagar? ¿Cómo y cuándo lo van a pagar? ¿Qué productos le quieren vender? ¿El banco les está tratando de forma justa? ¿Qué representa el banco? ¿Tiene valores sociales? 
+* **Que sea transparente:** Los Millennials quieren saber: ¿Qué van a pagar? ¿Cómo y cuándo lo van a pagar? ¿Qué productos le quieren vender? ¿El banco les está tratando de forma justa? ¿Qué representa el banco? ¿Tiene valores sociales? 
 
-* Quiero ser único: Tienen un alto sentido de individualidad. Quieren consumir productos y recibir servicios completamente alineados a sus gustos y necesidades.
+* **Quiero ser único:** Tienen un alto sentido de individualidad. Quieren consumir productos y recibir servicios completamente alineados a sus gustos y necesidades.
 
-* Quiero más que dinero: Quieren más que incentivos monetarios. Los Millennials buscan valor en la “experiencia” completa que les brinda el banco de principio a fín. Toda la trayectoria de la experiencia del cliente importa.
+* **Quiero más que dinero:** Quieren más que incentivos monetarios. Los Millennials buscan valor en la “experiencia” completa que les brinda el banco de principio a fín. Toda la trayectoria de la experiencia del cliente importa.
 
-* Lo quiero digitalizado: Los procesos manuales son reliquias del pasado y no son compatibles con las expectativas de la generacion Millennial. La experiencia completa del cliente debe estar digitalizada y automatizada.
+* **Lo quiero digitalizado:** Los procesos manuales son reliquias del pasado y no son compatibles con las expectativas de la generacion Millennial. La experiencia completa del cliente debe estar digitalizada y automatizada.
 
-* Quiero evolucionar: La lealtad, los gustos y las preferencias son elementos volátiles en constante evolución. Cambiar de proveedores es fácil, y si pueden, lo harán.
+* **Quiero evolucionar:** La lealtad, los gustos y las preferencias son elementos volátiles en constante evolución. Cambiar de proveedores es fácil, y si pueden, lo harán.
 
-* Lo que digan mis amigos: Confían en personas, no en compañías. Escuchan las recomendaciones de sus amigos, de conocidos, o “influencers” por redes sociales. Cada cliente es un embajador de la marca.
+* **Lo que digan mis amigos:** Confían en personas, no en compañías. Escuchan las recomendaciones de sus amigos, de conocidos, o “influencers” por redes sociales. Cada cliente es un embajador de la marca.
 
-* Quieren acceso inmediato y fácil: A los productos y servicios que necesitan. Tienen baja tolerancia a los tiempos de espera y procesos largos. Lo quiero rápido y fácil.
+* **Quieren acceso inmediato y fácil:** A los productos y servicios que necesitan. Tienen baja tolerancia a los tiempos de espera y procesos largos. Lo quiero rápido y fácil.
 
 * El 71%, Recomienda sus marcas favoritas de forma activa 
 * El 47%, ha criticado una marca por Internet
@@ -319,21 +307,21 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
 ##### Banco 100% Digital “Yaku”
 
 
-1. Customer Segments:
+1. **Customer Segments:**
 
 	          * Millenials y Z's peruanos.
             * Otros bancos asociados (mayoría de bancos de la ciudad).
 
-2. Customer Relationship:
+2. **Customer Relationship:**
 
             * Automatización de la Banca (Flexibilidad).
             * Social Media (Web).
 
-3. Channels:
+3. **Channels:**
 
            * App y Web.
 
-4. Value Proposition:
+4. **Value Proposition:**
 
            * Ser un banco con conciencia social que apoye al medio ambiente.
            * Ser un banco accesible para todos, también para persoas con habilidades especiales.
@@ -351,7 +339,7 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
                                         * Departamento propio, estudios y viajes.                                       
            * Confirmación de movimientos por mensajes de texto.
 
-5. Key Activities:
+5. **Key Activities:**
 
            * Actualizar la plataforma.
            * Mantenimiento de la plataforma.
@@ -361,7 +349,7 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
            * Investigaciones frecuentes para conocer al usuario y el mercado.
            * Pago de impuestos y permisos.
 
-6. Cost Structure:
+6. **Cost Structure:**
 
 	         * Oficinas.
 	         * Maquinarias y Servidores.
@@ -371,14 +359,14 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
 	         * Promociones
            * Impuestos y permisos.
 
-7. Key Partners:
+7. **Key Partners:**
 
            * Banco del País.
            * Bancos y empresas acosiadas.
            * Empresas y emprendimientos eco friendly.
            * Servicios públicos y privados. 
 
-8. Key Resources:  
+8. **Key Resources:**  
 
 	        * Oficinas.
 	        * Maquinarias y Servidores.
@@ -386,7 +374,7 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
           * Servidores, Internet, etc.
           * Plataforma.
 
-9. Revenue Stream:
+9. **Revenue Stream:**
 
 	        * Por cobro único de permiso para retirar dinero en otro lugar al tu residencia.
 	        * Cobro por usar el dinero de ahorro de tus metas para otro propósito.
@@ -394,3 +382,195 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
           * Cobro por movimientos en bancos asociados, exceptuando al Banco del País, tendrán un cobro de 1%, cuál se repartirá.
 
 
+**Link de carpeta en Google Drive** 
+![¿Google Drive](https://drive.google.com/drive/folders/1qXuPQeIpBru_zq4_IE7ZBhkqy4uUedLP?usp=sharing)
+
+#### Nuestros de Stakeholders
+
+* Los millenials : jóvenes nacidos entre 1980 y 1996 y los Zs
+* CEO.
+* Gerente de Riesgos.
+* Gerente de Marketing.
+* Gerente de RRHH.
+* Gerente de IT.
+* Jefe de innovación.
+* Equipo digital:
+      - Ux-design 
+      - UI-design 
+      - Front-end developer y 
+      - Back-end developer
+* Regulador estatal
+* Community Manager
+* Gerente de Agencia
+* Jefe de ventas
+* Ejecutivo de call center
+* Auditor
+* Bancos asociados a la red de Banca Digital.
+
+#### Plan de Research
+
+![Documento de Google](https://docs.google.com/document/d/1ezkSz7FM5XOsGMUFTPMEkachW6FAVkFKVsyscQ6JpPw/edit?usp=sharing)
+
+
+# Planteamiento de Research para la solución a un banco 100% digital en Perú
+
+## Realizado por: Silvia Puente de la Vega y Alexandra Calderón Chumbes
+
+## Stakeholders: **Lista de stakeholders**
+
+## Fechas de revisión: Lunes 26 de febrero
+
+El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millennials.
+
+El propósito de este planteamiento de investigación es encontrar sostenibilidad en nuestra propuesta: Lanzar un banco 100% digital y eco friendly, el cual sea tan sencillo que manejar que los usuarios no tengan necesidades extras y tan barato que sea accesible para todo  mayor de edad con un dispositivo smart.
+
+## Resultado de Investigaciones anteriores
+
+* Nequi (Bancolombia) Banco casi 100% digital, dirigido a Millenials y bancos asociados. Las propuestas de valor de Nequi son: Facilidad de acceso, 5 formas de pagar, giros desde tu Banca por app y web, sin costo, 3 herramientas para que puedas manejar la "plata" a tu propio ritmo. Su forma de ingresos: Enviar plata de tu cuenta Nequi a bancos (salvo Bancolombia) tiene costo y sobrepasar los topes de tu cuenta.
+
+* Nubank (no tiene banco padre, su fundador trabajó en Bancolombia) Banco 100% digital solo para Brasil. hace las cosas simples y no es una empresa todavía tan grande que le impida hacer cambios rápidos. Obtienes una tarjeta Mastercard Morada (la cual es muy difícil de conseguir). Sus ingresos se dan por pago de "una tarjeta diferenciada", por cobro de intereses.
+
+* Simple (BBVA) Banco 100% digital. Dirigido a millenials y bancos asociados. Propuesta de valor: 0 Comisiones, no cobra por honorarios, giros desde tu Banca por app y web, sin costo, los fondos en su cuenta Simple están en manos de uno de bancos asociados, The Bancorp Bank o Compass Bank, Member FDIC, incluida la tarjeta Visa. ¿Cómo son sus ingresos? Comparten intereses con otros bancos, si usa su tarjeta Simple internacionalmente, Visa incluirá una tarifa de Evaluación de Servicio Internacional (ISA) de hasta el 1% del monto total de la transacción.
+
+* En el Perú existe Latin Fintech, el cual se basa más en préstamos. Presta hasta S/1.000 a un plazo máximo de 45 días y en una sola cuota. El 75% de los clientes de Latin Fintech es menor de 40 años y entre 22 y 35 años es la edad de la mayoría. El segmento B y C es el público objetivo de la firma digital.
+
+* Los Millennials aceptan el hecho de que el medio ambiente en nuestro planeta se destruye a diario, lo que los hace dar ciertos pasos para enmendarlo.
+
+* Se adhieren a las leyes ambientales y respaldan cualquier iniciativa que trabaje para hacer que nuestro planeta sea verde. Los Millennials a menudo elegirán un transporte sostenible, como bicicletas o caminar, en lugar de automóviles o autobuses. Están dispuestos a hacer todo lo posible para hacer su contribución a la sociedad.
+
+* "La Caixa" lanza una nueva línea de préstamos al consumo para impulsar la financiación de productos de uso cotidiano respetuosos con el medio ambiente
+
+* Un estudio de la empresa fabricante de software de notificaciones financieras, Latinia, reveló que el 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. Incluso, el mismo estudio destaca que el 53% de los encuestados no piensa que su banco sea diferente al de los demás, por lo que uno de cada tres estaría dispuesto a cambiar de entidad fácilmente.
+
+## HIPÓTESIS
+
+* Crear un banco 100% digital impulsado por el Banco del País, es factible, ya que siendo de una entidad nacional es más confiable, además el valor agregado de ser eco friendly es atractivo para los millennials y z’s. 
+
+## OBJETIVOS COMERCIALES
+* ¿Cuál es el propósito de esta investigación? 
+
+* ¿Qué ayudará esta investigación a informar o resolver? 
+
+* Comprender los objetivos más amplios me ayuda a garantizar que la investigación esté diseñada para ayudar a respaldar la estrategia comercial de mi cliente. Quiero asegurarme de proporcionar datos procesables, no meramente datos interesantes.
+
+# OBJETIVOS DE LA INVESTIGACIÓN
+
+* Los objetivos de investigación son diferentes de los objetivos comerciales. Aquí, bosquejo las preguntas de investigación que responderá el estudio.
+
+* ¿Qué es útil? ¿Qué necesita la gente? ¿Quién es el público objetivo entre los peruanos? 
+
+* ¿Qué se puede usar? ¿Qué diseño funciona para las personas y cómo se puede implementar?
+
+* El objetivo de la investigación es comprender mejor qué información necesitan los clientes en el sitio web para tomar una decisión de compra.
+
+## Metodología de la investigación
+
+* La metodología a usar será Design Thinking. ¿Por qué? Es una forma de crear productos y servicios que tiendan a satisfacer en mejor manera las necesidades de los usuarios haciéndolos parte activa del proceso de creación.
+* También la metodología Agile, la cual basa su desarrollo en un ciclo iterativo , en el que las necesidades y soluciones evolucionan a través de la colaboración entre los diferentes equipos involucrados en el proyecto.
+
+## Perfil del participante
+
+Utilizo esta información para construir el filtro, por lo que detallo exactamente a quién queremos reclutar y a quién seleccionar. La plantilla para esta investigación es:
+
+* Varones y Mujeres nacidos entre 1981 al año 2000, con acceso a un smartphone.
+
+## Metodología de Reclutamiento
+
+* **Interceptación del sitio web**. Utilizar una invitación emergente para invitar a los visitantes a participar, luego dirigirlos a un evaluador en línea para recopilar su información de contacto.
+
+* **Invitación por correo electrónico**. Enviar un correo electrónico a su lista existente de clientes o clientes potenciales para encontrar sujetos de prueba. Enviar pequeños lotes por correo electrónico a la vez, y luego usaré Qualtrics o SurveyGizmo. 
+
+* **Anuncios de Facebook.**
+
+* **Ferias y otros eventos en persona.** Ir a ferias comerciales o a cualquier evento en el que haya una gran cantidad de clientes y prospectos.
+
+* **Guerrilla.** Dirigirnos a centros comerciales y cafeterías. Podremos encontrar personas dentro de nuestra plantilla de participantes.
+
+* **No dirigirnos a un lugar de trabajo**, porque es muy posible que se vayan. Siempre siendo respetuosos y discretos.
+
+## Incentivos
+
+Los participantes más difíciles de reclutar obtendrán un mayor incentivo (por ejemplo, médicos, ejecutivos de negocios).
+* S/ 5 - S/15 para encuestas en línea
+* S/ 25 - S/ 50 para entrevistas telefónicas de 30 minutos
+* S/ 100 - S/ 150 para entrevistas de una hora o estudios de usabilidad
+* S/ 150 - S/ 200 para estudios diarios
+
+Estos montos pueden ser entregados en efectivo o con cupones de descuento, etc. 
+
+## Observadores
+
+Esta sección es especialmente crítica para las sesiones de usabilidad. Incluyo una lista de cada función que recomiendamos asistir a las sesiones y por qué son fundamentales para el éxito del estudio de usabilidad.
+* Gerentes de marketing
+*  Gerentes de proyecto
+* Desarrolladores
+* Especialistas de UX
+* Diseñadores
+* Escritores
+* Gerentes de producto
+* ¿Por qué se requieren estos observadores? ¿Cuál es su importancia? Puede que no sea el facilitador de pruebas de usabilidad, el diseñador, el desarrollador o el analista de negocios, pero como parte interesada de la empresa, su participación es fundamental para el éxito del estudio de usabilidad. 
+
+Como expertos de la materia en su área, ellos saben cosas que NADIE MÁS en el equipo sabe. Su perspectiva y conocimiento únicos le permiten al facilitador recopilar y analizar mejor los datos.
+
+
+## Expectativas sobre entregas y tiempos
+1. 1ra Semana: 
+* Reclutamiento de usuarios, la cual se debe de terminar para el viernes de la misma.  
+* Alistar los incentivos.
+* Armar el formulario de preguntas para los participantes.
+* A su vez, una parte del equipo empezará el Research cuantitativo y cualitativo.
+* Comenzar las pruebas cara a cara con los participantes reclutados. Si es un reclutamiento en guerrilla, una persona sería suficiente, esta tendrá que llevar una cámara consigo. En las entrevistas a profundidad, que no durarán más de 1 hora, solo 2 o 3 personas podrán estar con el participante, pues este, puede incomodarse. 
+* Comenzar las pruebas vía internet también con los reclutados. Serán respuestas concretas, por lo que la data obtenida se podrá procesar rápido.
+* Para el fin de esa semana se tendrá toda la data obtenida lista para usar en el proceso de research.
+* Hacer mapas de afinidad de cada uno de los tipos de reclutamiento.
+* Hacer un mapa de afinidad general. Encontrar lo que más se repite y comenzar a basarnos en esto.
+* Hacer Brainstroming del proyecto.
+* Armar los user persona, para darnos un enfoque más centrado del usuario ideal, el secundario y el negativo; esto basándonos en la data encontrada en el reclutamiento.
+* Customer Journeys, se harán dos. El primero para saber qué es lo que está fallando en la actualidad, y el segundo para dar un enfoque más cercano a cómo lo queremos mejorar.
+* Story telling, armarlo en base al user persona principal. 
+* Hacer Benchmark.
+* Comenzar con la priorización: Problem Statements, HWM, etc.
+* Armar posibles User Flow.
+* Conceptualización del proyecto.
+* Teniendo la información del benchmark, la investigación con usuarios, y habiendo explorado las posibilidades a través de las técnicas de brainstorming (Problem statements, HMW, What if) debemos empezar a pensar en nuestro producto.
+
+* Hacer prototipos de media fidelidad, testearlos e iterar, hasta la mitad de semana.
+* Hacer el prototipo de alta fidelidad en base a los insigths del prototipo de media fidelidad.
+* estear el último prototipo y hacer una iteración.
+* Al final de la semana se presentará el prototipo del producto.
+
+
+## Configuración de prueba, incluidos equipos y suministros
+
+* Laptops
+
+* Incentivos para los reclutados.
+
+* Post its para los mapas de afinidad.
+
+* Papelería necesaria.
+
+* Punto de reunión para los testing a profundidad.
+
+* Personal necesario, como los stakeholders y observadores.
+
+* Plataforma remotas, en la que todo el equipo pueda ver y editar el avance del proyecto. (Repositorio de github - Google Drive).
+
+## Entregables
+
+A lo largo de la investigación se hará participar a todo el equipo, todos deben estar enterados de cómo está yendo el proyecto desde su inicio hasta el final.
+Para mantener un orden y objetivos claros, se proponen estos entregables:
+
+### 1ra semana: 
+
+* Entrega de lista de reclutados y el costo de los incentivos.
+
+### 2da semana: 
+
+* Entrega de documento de información sobre toda la data encontrada en los testings a los usuarios.
+* Entrega del prototipo en papel.
+* Entrega del prototipo de alta fidelidad.
+
+### 3ra semana:
+
+* Entrega de la investigación en repositorio.
