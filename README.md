@@ -1,14 +1,14 @@
 # Yaku
 
-![Yaku](assets/img/logo/yaku-logo.JPG)
+![Yaku](assets/img/logo/yaku*logo.JPG)
 
 * **Track:** _Especialización UX Design_
 * **Curso:** _Conociendo los negocios_
 * **Unidad:** _Lecciones básicas de negocios_
 * **Alummnas:** _Nombres:_
 
-                - Alexandra Calderón Chumbes
-                - Silvia Puente de la Vega
+                * Alexandra Calderón Chumbes
+                * Silvia Puente de la Vega
 
 ***
 
@@ -23,12 +23,12 @@ El Banco del País es uno de los bancos más importante de tu país. Es una inst
 #### Tu reto ahora es:
 
 * Identificar quiénes son los stakeholders de tu proyecto
-* Planear una reunión de kick - off detallando
+* Planear una reunión de kick * off detallando
 * Quiénes deberían estar presentes
 * Qué les preguntarías a los presentes
-* El product manager encargado te ha pedido además que para la sesión de kick - off vengas con un Business Model Canvas     (hipotético) del producto "Banco 100% digital", para que así los stakeholders puedan validar o invalidar las hipótesis    o pedirte que te enfoques en validar alguna hipótesis durante la investigación.
+* El product manager encargado te ha pedido además que para la sesión de kick * off vengas con un Business Model Canvas     (hipotético) del producto "Banco 100% digital", para que así los stakeholders puedan validar o invalidar las hipótesis    o pedirte que te enfoques en validar alguna hipótesis durante la investigación.
 
-Además, te piden que llegues a la reunión de kick - off con un plan propuesto de investigación, en el que detalles qué actividades de investigación, según tu criterio se deberían realizar, sustentando el por qué propones c/u de esas actividades.
+Además, te piden que llegues a la reunión de kick * off con un plan propuesto de investigación, en el que detalles qué actividades de investigación, según tu criterio se deberían realizar, sustentando el por qué propones c/u de esas actividades.
 
 ## Consideraciones
 
@@ -58,7 +58,7 @@ Empezamos analizando el reto, por lo cual decidimos hacer una investigación pre
 
  **Link de Google Drive:** 
 
-    - [Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1-bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing) 
+    * [Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1*bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing) 
 
 
 ## Investigación previa
@@ -72,59 +72,59 @@ Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta 
 #### Business Model Canvas
 
 1. **Customer Segments:**
-	          - Millenials.
-            - Otros bancos asociados.
+	          * Millenials.
+            * Otros bancos asociados.
 
 2. **Customer Relationship:**
-            - Automatización de la Banca (Flexibilidad).
-            - Social Media.
+            * Automatización de la Banca (Flexibilidad).
+            * Social Media.
 
 3. **Channels:**
-            - App y Web.
+            * App y Web.
 
 4. **Value Proposition:**
-            - Costo cero por creación de cuenta.
-            - Facilidad de acceso.
-            - 5 formas de pagar (envíos, pagar por PSE, con código QR en un       datáfono, por recarga de otro usuario, por recarga en efectivo).
-            - Giros desde tu Banca por app y web, sin costo.
-            - Tres herramientas para que puedas manejar la plata a tu propio      ritmo.
-            - Los bolsillos te sirven para separar la plata (Agenda monetaria)
-            - Metas de ahorro.
-            - Guardadito: mini montos, fáciles de usar que Nequi te pone a la  vista. 
+            * Costo cero por creación de cuenta.
+            * Facilidad de acceso.
+            * 5 formas de pagar (envíos, pagar por PSE, con código QR en un       datáfono, por recarga de otro usuario, por recarga en efectivo).
+            * Giros desde tu Banca por app y web, sin costo.
+            * Tres herramientas para que puedas manejar la plata a tu propio      ritmo.
+            * Los bolsillos te sirven para separar la plata (Agenda monetaria)
+            * Metas de ahorro.
+            * Guardadito: mini montos, fáciles de usar que Nequi te pone a la  vista. 
 5. **Key Partners:**
-            - Bancolombia (permite sacar tu dinero sin costos, ni comisiones).
-            - Bancos asociados (se cobra el 1% del movimiento).
+            * Bancolombia (permite sacar tu dinero sin costos, ni comisiones).
+            * Bancos asociados (se cobra el 1% del movimiento).
 
 6. **Key Activities:**
-            - Actualizar su plataforma.
-            - Mantenimiento de su plataforma.
-            - Investigaciones constantes para conocer al cliente colombiano y     paraguayo y sus necesidades respectiamente.
-            - Servidores.
-            - Hacer promociones y eventos. 
-            - Mantener relación con el Estado.
-            - Mantener la seguridad del banco.
+            * Actualizar su plataforma.
+            * Mantenimiento de su plataforma.
+            * Investigaciones constantes para conocer al cliente colombiano y     paraguayo y sus necesidades respectiamente.
+            * Servidores.
+            * Hacer promociones y eventos. 
+            * Mantener relación con el Estado.
+            * Mantener la seguridad del banco.
 
 7. **Key Resources:**
-	          - Físicos: Almacenes, oficinas, instalaciones, maquinaria, etc.
-	          - Intelectual: Patente, marca, etc.
-	          - Recursos humanos.
-	          - Finanzas: mercado, expansión.
-	          - Convenios.
+	          * Físicos: Almacenes, oficinas, instalaciones, maquinaria, etc.
+	          * Intelectual: Patente, marca, etc.
+	          * Recursos humanos.
+	          * Finanzas: mercado, expansión.
+	          * Convenios.
 
 8. **Cost Structure:**
-	          - Recursos Físicos.
-	          - Recursos Humanos.
-	          - Convenios.
-	          - Patente, marca, etc.
-            - Permisos.
-            - Pubilicidad.
-            - Investigación.
-            - Expansión.
-            - Maquinarias.
+	          * Recursos Físicos.
+	          * Recursos Humanos.
+	          * Convenios.
+	          * Patente, marca, etc.
+            * Permisos.
+            * Pubilicidad.
+            * Investigación.
+            * Expansión.
+            * Maquinarias.
 
 9. **Revenue Stream:**
-	          - Enviar dinero de tu cuenta Nequi a bancos (salvo Bancolombia)        tiene costo.
-	          - Quitarle los topes a tu cuenta.
+	          * Enviar dinero de tu cuenta Nequi a bancos (salvo Bancolombia)        tiene costo.
+	          * Quitarle los topes a tu cuenta.
 
 ### Nubank
 
@@ -134,55 +134,55 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
 
 1. **Customer Segments:**
 
-            - Millenials brasileños
-            - Usuarios tecnológicos en Brasil.
-            - Bancos y empresas asociadas.
+            * Millenials brasileños
+            * Usuarios tecnológicos en Brasil.
+            * Bancos y empresas asociadas.
 
 2. **Customer Relationship:**
 
-            - Automatización de la Banca (Flexibilidad).
-            - Social Media.
+            * Automatización de la Banca (Flexibilidad).
+            * Social Media.
 
 3. **Channels:**
 
-           - App y Web.
+           * App y Web.
 
 4. **Value Proposition:**
-           - Facilidad de acceso.
-           - No hay costo de creación de cuenta ni de mantenimiento.
-           - Obtener la tarjeta morada de Mastercard o Nubank Mastercard, la      cual es aceptada en más de 30 millones de establecimientos en todo   el mundo y que también le da acceso a los beneficios de la bandera   Mastercard.
-           - Nunbank Rewards, sistema de gamification con el cuál cada punto      equivale a un real. Tus puntos sirven para pagar otros servicios     asociados como Uber, Netflix, etc. y/o borrar historiales de         movimientos.
+           * Facilidad de acceso.
+           * No hay costo de creación de cuenta ni de mantenimiento.
+           * Obtener la tarjeta morada de Mastercard o Nubank Mastercard, la cual es aceptada en más de 30 millones de establecimientos en todo el mundo y que también le da acceso a los beneficios de la bandera   Mastercard.
+           * Nunbank Rewards, sistema de gamification con el cuál cada punto equivale a un real. Tus puntos sirven para pagar otros servicios asociados como Uber, Netflix, etc. y/o borrar historiales de movimientos.
           
 5. **Key Partners:**
 
-           - Sequoia Capital, Kaszek Ventures, Tiger Global Managment, Founders   Fund, Goldman Sachs, QED Los inversores y DST Global.
+           * Sequoia Capital, Kaszek Ventures, Tiger Global Managment, Founders   Fund, Goldman Sachs, QED Los inversores y DST Global.
 
 6. **Key Activities:**
 
-           - Actualizar su plataforma
-           - Mantenimiento de su plataforma
-           - Servidores
-           - Hacer promos y eventos 
+           * Actualizar su plataforma
+           * Mantenimiento de su plataforma
+           * Servidores
+           * Hacer promos y eventos 
         
 7. **Key Resources:** 
 
-	         - Oficinas.
-	         - Maquinarias y Servidores.
-	         - Recursos humanos.
-	         - Patentes.
-           - La plataforma.
+	         * Oficinas.
+	         * Maquinarias y Servidores.
+	         * Recursos humanos.
+	         * Patentes.
+           * La plataforma.
 
 8. **Cost Structure:**
-	         - Oficinas
-	         - Maquinarias y Servidores
-	         - Recursos humanos
-	         - Patentes
-	         - Convenios
+	         * Oficinas
+	         * Maquinarias y Servidores
+	         * Recursos humanos
+	         * Patentes
+	         * Convenios
         
 
 9. **Revenue Stream:**
-	         - Cuando el cliente realiza una compra con su tarjeta, recibe          del establecimiento, a través de la bandera Mastercard, un           pequeño porcentaje de ese valor.
-           - Cuando el cliente escoge por financiar parte o el total del valor    de su factura, recibe intereses, incluso por debajo del              mercado, sobre el valor que se financió.
+	         * Cuando el cliente realiza una compra con su tarjeta, recibe del establecimiento, a través de la bandera Mastercard, un pequeño porcentaje de ese valor.
+           * Cuando el cliente escoge por financiar parte o el total del valor de su factura, recibe intereses, incluso por debajo del mercado, sobre el valor que se financió.
 
 
 ### Simple
@@ -192,57 +192,57 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 #### Business Model Canvas
 
 1. **Customer Segments:**
-	        - Millenials.
-          - Otros bancos asociados.
+	        * Millenials.
+          * Otros bancos asociados.
 
 2. **Customer Relationship:**
-          - Automatización de la Banca (Flexibilidad).
-          - Social Media.
+          * Automatización de la Banca (Flexibilidad).
+          * Social Media.
 
 3. **Channels:**
-          - App y Web.
+          * App y Web.
 
 4. **Value Proposition:**
 
-          - Facilidad de acceso
-          - 0 Comisiones, no cobra por honorarios.
-          - Giros desde tu Banca por app y web, sin costo.
-          - Simple proporciona todo lo demás(Los fondos en su cuenta Simple       están en manos de uno de nuestros bancos asociados, The Bancorp       Bank o Compass Bank, Member FDIC), incluida la tarjeta Visa.
+          * Facilidad de acceso
+          * 0 Comisiones, no cobra por honorarios.
+          * Giros desde tu Banca por app y web, sin costo.
+          * Simple proporciona todo lo demás(Los fondos en su cuenta Simple       están en manos de uno de nuestros bancos asociados, The Bancorp       Bank o Compass Bank, Member FDIC), incluida la tarjeta Visa.
 
 5. **Key Activities:**
            
-           - Oficinas.
-	         - Maquinarias y Servidores.
-	         - Recursos humanos.
-	         - Patentes.
-           - La plataforma.
+           * Oficinas.
+	         * Maquinarias y Servidores.
+	         * Recursos humanos.
+	         * Patentes.
+           * La plataforma.
 
 6. **Key Partners:**
 
-           - BBVA.
-           - Bancos y empresas asociadas.
+           * BBVA.
+           * Bancos y empresas asociadas.
 
 7. **Key Resources:**
 
-	         - Oficinas.
-	         - Maquinarias y Servidores.
-	         - Recursos humanos.
-	         - Adtualizar la plataforma.
-           - Investigar su mercado.
+	         * Oficinas.
+	         * Maquinarias y Servidores.
+	         * Recursos humanos.
+	         * Adtualizar la plataforma.
+           * Investigar su mercado.
  
 8. **Cost Structure:**
 
-	        - Oficinas.
-	        - Maquinarias y Servidores.
-	        - Recursos humanos.
-	        - Patentes.
-	        - Convenios.
+	        * Oficinas.
+	        * Maquinarias y Servidores.
+	        * Recursos humanos.
+	        * Patentes.
+	        * Convenios.
 
 9. **Revenue Stream:**
 
-	        - Comparten intereses con otros bancos.
-	        - Cuando desliza su tarjeta de débito, el comerciante paga una tarifa   de servicio (llamada intercambio) al banco emisor. Nuestros socios    dividen esto con nosotros.
-	        - Si usa su tarjeta Simple internacionalmente, Visa incluirá una        tarifa de Evaluación de Servicio Internacional (ISA) de hasta el 1%   del monto total de la transacción.
+	        * Comparten intereses con otros bancos.
+	        * Cuando desliza su tarjeta de débito, el comerciante paga una tarifa   de servicio (llamada intercambio) al banco emisor. Nuestros socios    dividen esto con nosotros.
+	        * Si usa su tarjeta Simple internacionalmente, Visa incluirá una        tarifa de Evaluación de Servicio Internacional (ISA) de hasta el 1%   del monto total de la transacción.
 
 ### Millennials
 
@@ -321,76 +321,76 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
 
 1. **Customer Segments:**
 
-	          - Millenials y Z's peruanos.
-            - Otros bancos asociados (mayoría de bancos de la ciudad).
+	          * Millenials y Z's peruanos.
+            * Otros bancos asociados (mayoría de bancos de la ciudad).
 
 2. **Customer Relationship:**
 
-            - Automatización de la Banca (Flexibilidad).
-            - Social Media (Web).
+            * Automatización de la Banca (Flexibilidad).
+            * Social Media (Web).
 
 3. **Channels:**
 
-           - App y Web.
+           * App y Web.
 
 4. **Value Proposition:**
 
-           - Ser un banco con conciencia social que apoye al medio ambiente.
-           - Ser un banco accesible para todos, también para persoas con habilidades especiales.
-           - Facilidad de acceso
-           - 0 Comisiones, no cobra por honorarios.
-           - Giros desde tu Banca por app y web, sin costo.
-           - Permite hacer transacciones (sin costos)
-           - Tarjeta especial opcional (hecha con material reciclable), la cual será otorgada por el Banco del País.
-           - Puntos por actividades a favor de un ambiente sostenible.
-           - Cheques virtuales, QR.
-           - Dentro de la aplicación tener un modo de Control de cuenta que tenga: 
+           * Ser un banco con conciencia social que apoye al medio ambiente.
+           * Ser un banco accesible para todos, también para persoas con habilidades especiales.
+           * Facilidad de acceso
+           * 0 Comisiones, no cobra por honorarios.
+           * Giros desde tu Banca por app y web, sin costo.
+           * Permite hacer transacciones (sin costos)
+           * Tarjeta especial opcional (hecha con material reciclable), la cual será otorgada por el Banco del País.
+           * Puntos por actividades a favor de un ambiente sostenible.
+           * Cheques virtuales, QR.
+           * Dentro de la aplicación tener un modo de Control de cuenta que tenga: 
                                         * Agenda monetaria, (registro de movimiento)
                                         * Metas (A cuánto dinero estás de lograr algo).
                                         * Guardadito (monedero).
                                         * Departamento propio, estudios y viajes.                                       
-           - Confirmación de movimientos por mensajes de texto.
+           * Confirmación de movimientos por mensajes de texto.
 
 5. **Key Activities:**
 
-           - Actualizar la plataforma.
-           - Mantenimiento de la plataforma.
-           - Pago de servidores.
-           - Asociaciones con otros bancos.
-           - Asociaciones con empresas y emprendimientos eco friendly.
-           - Investigaciones frecuentes para conocer al usuario y el mercado.
-           - Pago de impuestos y permisos.
+           * Actualizar la plataforma.
+           * Mantenimiento de la plataforma.
+           * Pago de servidores.
+           * Asociaciones con otros bancos.
+           * Asociaciones con empresas y emprendimientos eco friendly.
+           * Investigaciones frecuentes para conocer al usuario y el mercado.
+           * Pago de impuestos y permisos.
 
 6. **Cost Structure:**
 
-	         - Oficinas.
-	         - Maquinarias y Servidores.
-	         - Recursos humanos.
-	         - Patentes.
-	         - Convenios.
-	         - Promociones
-           - Impuestos y permisos.
+	         * Oficinas.
+	         * Maquinarias y Servidores.
+	         * Recursos humanos.
+	         * Patentes.
+	         * Convenios.
+	         * Promociones
+           * Impuestos y permisos.
 
 7. **Key Partners:**
 
-           - Banco del País.
-           - Bancos y empresas acosiadas.
-           - Empresas y emprendimientos eco friendly.
-           - Servicios públicos y privados. 
+           * Banco del País.
+           * Bancos y empresas acosiadas.
+           * Empresas y emprendimientos eco friendly.
+           * Servicios públicos y privados. 
 
 8. **Key Resources:**  
 
-	        - Oficinas.
-	        - Maquinarias y Servidores.
-	        - Recursos humanos.
-          - Servidores, Internet, etc.
-          - Plataforma.
+	        * Oficinas.
+	        * Maquinarias y Servidores.
+	        * Recursos humanos.
+          * Servidores, Internet, etc.
+          * Plataforma.
 
 9. **Revenue Stream:**
 
-	        - Por cobro único de permiso para retirar dinero en otro lugar al tu residencia.
-	        - Cobro por usar el dinero de ahorro de tus metas para otro propósito.
-	        - Cobro por uso en el extranjero (transacciones, etc.).
-          - Cobro por movimientos en bancos asociados, exceptuando al Banco del País, tendrán un cobro de 1%, cuál se repartirá.
+	        * Por cobro único de permiso para retirar dinero en otro lugar al tu residencia.
+	        * Cobro por usar el dinero de ahorro de tus metas para otro propósito.
+	        * Cobro por uso en el extranjero (transacciones, etc.).
+          * Cobro por movimientos en bancos asociados, exceptuando al Banco del País, tendrán un cobro de 1%, cuál se repartirá.
 
 
