@@ -635,11 +635,11 @@ Esta entrevista es para conocerte un poco, sobre tu interacción con los bancos 
 
 [Formulario de Google](https://docs.google.com/forms/d/e/1FAIpQLSdGjy_6llb0reWmlUqemQOSW1d8bZ6mawqKNQhgMOSzdBd8tg/viewform?usp=pp_url&entry.1729490766&entry.499512733&entry.509178011).
 
-![Form](img/form/Formulario.JPG)
-![Form](img/form/Formulario-1.JPG)
-![Form](img/form/Formulario-2.JPG)
-![Form](img/form/Formulario-3.JPG)
-![Form](img/form/Formulario-4.JPG)
-![Form](img/form/Formulario-5.JPG)
-![Form](img/form/Formulario-6.JPG)
+![Form](assets/img/form/Formulario.JPG)
+![Form](assets/img/form/Formulario-1.JPG)
+![Form](assets/img/form/Formulario-2.JPG)
+![Form](assets/img/form/Formulario-3.JPG)
+![Form](assets/img/form/Formulario-4.JPG)
+![Form](assets/img/form/Formulario-5.JPG)
+![Form](assets/img/form/Formulario-6.JPG)
 
