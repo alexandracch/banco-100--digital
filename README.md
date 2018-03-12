@@ -669,4 +669,18 @@ Para crear una mejor experiencia, se decidió armar un user persona el cual se b
 ![User Persona](assets/img/storyboard2.jpg)
 
 
+#### Prototipo en papel 
+
+![Prototipo](assets/img/papel.jpg)
+![Prototipo](assets/img/papel1.jpg)
+![Prototipo](assets/img/papel2.jpg)
+![Prototipo](assets/img/papel3.jpg)
+![Prototipo](assets/img/papel4.jpg)
+![Prototipo](assets/img/papel57.jpg)
+![Prototipo](assets/img/papel6.jpg)
+![Prototipo](assets/img/papel9.jpg)
+![Prototipo](assets/img/papel10.jpg)
+
+
+
 
