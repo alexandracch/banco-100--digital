@@ -772,9 +772,6 @@ Ubicación archivo  ( link ):
 ## Conceptualizacion del proceso 
 ![](assets/img/conceptualizacion.png)
 
-## Storyboard
-![](assets/img/storyboard1.jpg)
-![](assets/img/storyboard2.jpg)
 
 
 
