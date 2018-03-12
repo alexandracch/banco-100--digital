@@ -244,7 +244,56 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 	        - Cuando desliza su tarjeta de débito, el comerciante paga una tarifa   de servicio (llamada intercambio) al banco emisor. Nuestros socios    dividen esto con nosotros.
 	        - Si usa su tarjeta Simple internacionalmente, Visa incluirá una        tarifa de Evaluación de Servicio Internacional (ISA) de hasta el 1%   del monto total de la transacción.
 
+### Millennials
+
+* En los próximos cinco años, los millennials la generación de jóvenes que nació entre 1981 y 2000 supondrá el 75% de la fuerza laboral en el mundo. Con más de 80 millones de personas en Estados Unidos, otros 51 millones en Europa y unos 170 millones estimados a nivel global, la nueva generación de consumidores se está transformando en el foco de estrategias y campañas publicitarias de empresas de los más diversos rubros.
+
+* La banca no ha quedado ajena a este fenómeno y, actualmente, lucha por atraer y fidelizar a un grupo que rompe con los paradigmas de las generaciones anteriores, estableciendo nuevos hábitos de consumo y formas de relacionarse con las empresas.
+
+* Un estudio de la empresa fabricante de software de notificaciones financieras, Latinia, reveló que el 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. Incluso, el mismo estudio destaca que el 53% de los encuestados no piensa que su banco sea diferente al de los demás, por lo que uno de cada tres estaría dispuesto a cambiar de entidad fácilmente.
+
+* Otro de los resultados del análisis refleja la afinidad de los millennials con la tecnología y los servicios de mensajería instantánea. La principal vía de comunicación entre estas instituciones y sus clientes son las páginas web y las aplicaciones que han desarrollado los bancos para smartphones , donde una buena o mala aplicación móvil puede sellar la imagen de la empresa frente a sus clientes más jóvenes. Entre los millennials chilenos, la red preferida por los usuarios es Facebook por sobre otras similares, como Twitter. Por cada usuario en esta última hay dos que prefieren utilizar Facebook, para enterarse de noticias y servicios disponibles en su banco.
+
+* **Apuesta digital:** Este cambio de escenario para la banca necesita de nuevas estrategias para lograr el éxito, en un mercado donde los clientes van de una institución a otra más fácilmente que antes. Por lo mismo, las prioridades han cambiado y también las inversiones en los distintos servicios que ofrecen a esta generación.
+
+* **Que sea transparente:** Los Millennials quieren saber: ¿Qué van a pagar? ¿Cómo y cuándo lo van a pagar? ¿Qué productos le quieren vender? ¿El banco les está tratando de forma justa? ¿Qué representa el banco? ¿Tiene valores sociales? 
+
+* **Quiero ser único:** Tienen un alto sentido de individualidad. Quieren consumir productos y recibir servicios completamente alineados a sus gustos y necesidades.
+
+* **Quiero más que dinero:** Quieren más que incentivos monetarios. Los Millennials buscan valor en la “experiencia” completa que les brinda el banco de principio a fín. Toda la trayectoria de la experiencia del cliente importa.
+
+* **Lo quiero digitalizado:** Los procesos manuales son reliquias del pasado y no son compatibles con las expectativas de la generacion Millennial. La experiencia completa del cliente debe estar digitalizada y automatizada.
+
+* **Quiero evolucionar:** La lealtad, los gustos y las preferencias son elementos volátiles en constante evolución. Cambiar de proveedores es fácil, y si pueden, lo harán.
+
+* **Lo que digan mis amigos:** Confían en personas, no en compañías. Escuchan las recomendaciones de sus amigos, de conocidos, o “influencers” por redes sociales. Cada cliente es un embajador de la marca.
+
+* **Quieren acceso inmediato y fácil:** A los productos y servicios que necesitan. Tienen baja tolerancia a los tiempos de espera y procesos largos. Lo quiero rápido y fácil.
+
+* El 71%, Recomienda sus marcas favoritas de forma activa 
+* El 47%, ha criticado una marca por Internet
+* El 86%, comparte sus preferencias de marca por Internet. 
+
+* Apoyan más las leyes ambientales estrictas, con mayor probabilidad de contribuir a la actividad humana ante el Calentamiento Global.
+
+* Están a favor de las políticas amigables con el medio ambiente como el desarrollo de energía más verdes e incentivos para usar carros híbridos, bicicletas o el transporte colectivo. 
+
+* La población que son considerados como “jóvenes adultos” está de acuerdo a pagar más por productos socialmente responsables y desean trabajar para una empresa que involucre estos valores a su cadena de producción y a la imagen misma de la empresa.
+
+* Expandir su conocimiento sobre sostenibilidad, productos y servicios amigables con el medio ambiente.
+
+* Recopilar información de productos y servicios para poder tomar decisiones de compra, influenciadas también la opinión de otros consumidores.
+
+* Dar importancia a la imagen responsable de las organizaciones.
+
+* La creación de políticas verdes, como el fomento de las energías limpias o el transporte público en sus países.
+
+* Entender que el producto con carácter social y ambiental tiene un coste algo mayor.
+
+
 ### Conclusiones
+
+#### Respecto a los bancos
 
 Estos tres bancos tienen una llegada al cliente muy particular, se dirigen a ellos con mucha confianza y sin formalidades. Además de esto, son sencillos de usar y aún así toman todas las medidas de seguridad que un banco necesita. 
 
@@ -252,4 +301,96 @@ Respecto al modelo de negocio, se ve que: ninguno de ellos cobra por creación d
 
 Los mayores ingresos los obtienen con los bancos asociados a ellos respectivamente. También con pequeños cobros no muy sentidos en sus clientes.
 
-### 
+#### Respecto a los millennials
+
+Son una generación revolucionaria. Están dispuestos al cambio. Son casi 100$ digitales, pero aún así se preocupan por el cuidado ambiental. No les gusta perder el tiempo, quieren lo rápido, fácil y accesible. Los papeleos no son lo suyo, y aún menos las formalidades. Quieren saberlo todo y no sentirse engañados por nadie. 
+
+Ellos están siendo un verdadero dolor de cabeza para los bancos. Ya que, no les gusta ir a un banco físico ¿To es mejor digital no? Sí, efectivamnte así es para los millenials.
+
+Son muy eco friendly, nacieron para vivenciar el cuidado al medio ambiente, tanto sea en el su trabajo, lo que consumen o usa, y en su vida y cuidado personal.
+
+
+### Creación e Ideación del banco 100% digital
+
+Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). El resultado fue el siguiente:
+
+#### BMC
+
+##### Banco 100% Digital “Yaku”
+
+
+1. **Customer Segments:**
+
+	          - Millenials y Z's peruanos.
+            - Otros bancos asociados (mayoría de bancos de la ciudad).
+
+2. **Customer Relationship:**
+
+            - Automatización de la Banca (Flexibilidad).
+            - Social Media (Web).
+
+3. **Channels:**
+
+           - App y Web.
+
+4. **Value Proposition:**
+
+           - Ser un banco con conciencia social que apoye al medio ambiente.
+           - Ser un banco accesible para todos, también para persoas con habilidades especiales.
+           - Facilidad de acceso
+           - 0 Comisiones, no cobra por honorarios.
+           - Giros desde tu Banca por app y web, sin costo.
+           - Permite hacer transacciones (sin costos)
+           - Tarjeta especial opcional (hecha con material reciclable), la cual será otorgada por el Banco del País.
+           - Puntos por actividades a favor de un ambiente sostenible.
+           - Cheques virtuales, QR.
+           - Dentro de la aplicación tener un modo de Control de cuenta que tenga: 
+                                        * Agenda monetaria, (registro de movimiento)
+                                        * Metas (A cuánto dinero estás de lograr algo).
+                                        * Guardadito (monedero).
+                                        * Departamento propio, estudios y viajes.                                       
+           - Confirmación de movimientos por mensajes de texto.
+
+5. **Key Activities:**
+
+           - Actualizar la plataforma.
+           - Mantenimiento de la plataforma.
+           - Pago de servidores.
+           - Asociaciones con otros bancos.
+           - Asociaciones con empresas y emprendimientos eco friendly.
+           - Investigaciones frecuentes para conocer al usuario y el mercado.
+           - Pago de impuestos y permisos.
+
+6. **Cost Structure:**
+
+	         - Oficinas.
+	         - Maquinarias y Servidores.
+	         - Recursos humanos.
+	         - Patentes.
+	         - Convenios.
+	         - Promociones
+           - Impuestos y permisos.
+
+7. **Key Partners:**
+
+           - Banco del País.
+           - Bancos y empresas acosiadas.
+           - Empresas y emprendimientos eco friendly.
+           - Servicios públicos y privados. 
+
+8. **Key Resources:**  
+
+	        - Oficinas.
+	        - Maquinarias y Servidores.
+	        - Recursos humanos.
+          - Servidores, Internet, etc.
+          - Plataforma.
+
+9. **Revenue Stream:**
+
+	        - Por cobro único de permiso para retirar dinero en otro lugar al tu residencia.
+	        - Cobro por usar el dinero de ahorro de tus metas para otro propósito.
+	        - Cobro por uso en el extranjero (transacciones, etc.).
+          - Cobro por movimientos en bancos asociados, exceptuando al Banco del País, tendrán un cobro de 1%, cuál se repartirá.
+
+
