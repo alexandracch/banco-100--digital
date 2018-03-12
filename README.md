@@ -1,6 +1,6 @@
 # Yaku
 
-![Yaku](assets/img/logo/yaku*logo.JPG)
+![Yaku](assets/img/logo/yaku-logo.JPG)
 
 * **Track:** _Especialización UX Design_
 * **Curso:** _Conociendo los negocios_
@@ -46,7 +46,7 @@ Empezamos analizando el reto, por lo cual decidimos hacer una investigación pre
 
  **Link de Google Drive:** 
 
-    ![Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1*bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing) 
+    [Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1*bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing).
 
 
 ## Investigación previa
@@ -409,7 +409,7 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
 
 #### Plan de Research
 
-![Documento de Google](https://docs.google.com/document/d/1ezkSz7FM5XOsGMUFTPMEkachW6FAVkFKVsyscQ6JpPw/edit?usp=sharing)
+[Documento de Google](https://docs.google.com/document/d/1ezkSz7FM5XOsGMUFTPMEkachW6FAVkFKVsyscQ6JpPw/edit?usp=sharing).
 
 
 #### Planteamiento de Research para la solución a un banco 100% digital en Perú
@@ -573,4 +573,61 @@ Para mantener un orden y objetivos claros, se proponen estos entregables:
 
 ###### 3ra semana:
 
-* Entrega de la investigación en repositorio.
+* Entrega de la investigación en un repositorio de Github.
+
+#### Plan de entrevista personal y formulario por Internet
+
+##### Guía de entrevista 
+
+* Entrada: 
+Hola, Soy [Nombre de entrevistador], y voy a conversar contigo hoy.
+Esta entrevista es para conocerte un poco, sobre tu interacción con los bancos  a los que estás afiliado y sobre ecología; durará entre unos 10 a 15 minutos y agradeceremos tu participación con un presente. Quiero recordarte que nada de lo que hagas está bien o mal, ni vamos a juzgarte por eso. Ahora dime, ¿estás de acuerdo con que grabe esta entrevista? No será usada en otra cosa que no sea esta investigación, la grabación no será publicada sin tu autorización. Si en algún momento decides que no quieres continuar con la entrevista, puedes retirarte, no hay ningún problema.
+
+
+* Screener validation: 
+  - Nombre
+  - Edad
+  - Zona en la que vive
+  - ¿Qué haces en tu tiempo libre?
+
+* Detalied Interview Ecology:
+
+  - ¿Alguna vez te ha interesado el cuidado del medio ambiente?
+  - ¿Crees que es importante?
+  - ¿Incentivas a otros al cuidado del medio ambiente?
+  - ¿Qué sueles hacer con los desechos?
+  - ¿Alguna vez has reciclado?
+  - ¿Si vas a un banco, imprimes un vaucher? 
+  - ¿Qué haces con él?
+
+* Detalied Interview Bank:
+
+  - ¿Qué bancos usas?
+  - ¿Normalmente a qué banco vas?
+  - ¿Qué te motiva a usar este banco?
+  - ¿Tienes algún banco que te guste o agrade más que otros? Por qué?
+
+* Detalied Interview for Internet Bank:
+  
+  - ¿Has visitado la página web o aplicación de algún banco?
+  - ¿Qué dispositivos usas?
+  - ¿Cuándo fue la última vez que lo hiciste?
+  - ¿Con qué fin lo usaste?
+  - ¿Cómo te sentiste?
+  - ¿Te pareció fácil?
+  - ¿Te parece confiable?
+  - ¿Tiene alguna idea de qué datos necesita el servicio?
+
+
+* Físico o virtualmente
+
+  - ¿Alguna vez te has sentido incómodo en algún banco?
+  - ¿Qué cosas crees que no se deberían hacer en un banco?
+  - ¿Cuándo ves ese tipo de cosas qué acciones tomarías, o tomaste?
+  - ¿Se le ocurre algún banco del que nunca serías usuario? Por qué
+  - ¿Haz tenido algún momento en que te haya dado mucho gusto participar en alguna actividad del banco? sea un buen proceso de transacción o algún evento, etc, diferentes actividades
+  - ¿De las cosas que hemos conversado, ¿ hay alguna cosa que quisieras agregar?
+  - Luego de esta entrevista qué te gustaría saber sobre el o los bancos que usas?
+
+* Cierre.
+
