@@ -734,7 +734,8 @@ Ubicación archivo  ( link ):
 ## Affinity map 
 ![Form](assets/img/affinitymap.png)
 
-
+## Conceptualizacion del proceso 
+![Form](assets/img/conceptualizacion.png)
 
 
 
