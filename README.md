@@ -165,10 +165,12 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
            - Hacer promos y eventos 
         
 7. **Key Resources:** 
-	         - Oficinas
-	         - Maquinarias y Servidores
-	         - Recursos humanos
-	         - Patentes
+
+	         - Oficinas.
+	         - Maquinarias y Servidores.
+	         - Recursos humanos.
+	         - Patentes.
+           - La plataforma.
 
 8. **Cost Structure:**
 	         - Oficinas
@@ -183,11 +185,71 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
            - Cuando el cliente escoge por financiar parte o el total del valor    de su factura, recibe intereses, incluso por debajo del              mercado, sobre el valor que se financió.
 
 
-   
-
-
-
 ### Simple
+
+El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del sector: creación de un banco minorista con operaciones exclusivas online y, principalmente, vía móvil. Además, con su compra por parte de BBVA, Simple también se ha convertido en un referente de las estrategias de innovación abierta.
 
 #### Business Model Canvas
 
+1. **Customer Segments:**
+	        - Millenials.
+          - Otros bancos asociados.
+
+2. **Customer Relationship:**
+          - Automatización de la Banca (Flexibilidad).
+          - Social Media.
+
+3. **Channels:**
+          - App y Web.
+
+4. **Value Proposition:**
+
+          - Facilidad de acceso
+          - 0 Comisiones, no cobra por honorarios.
+          - Giros desde tu Banca por app y web, sin costo.
+          - Simple proporciona todo lo demás(Los fondos en su cuenta Simple       están en manos de uno de nuestros bancos asociados, The Bancorp       Bank o Compass Bank, Member FDIC), incluida la tarjeta Visa.
+
+5. **Key Activities:**
+           
+           - Oficinas.
+	         - Maquinarias y Servidores.
+	         - Recursos humanos.
+	         - Patentes.
+           - La plataforma.
+
+6. **Key Partners:**
+
+           - BBVA.
+           - Bancos y empresas asociadas.
+
+7. **Key Resources:**
+
+	         - Oficinas.
+	         - Maquinarias y Servidores.
+	         - Recursos humanos.
+	         - Adtualizar la plataforma.
+           - Investigar su mercado.
+ 
+8. **Cost Structure:**
+
+	        - Oficinas.
+	        - Maquinarias y Servidores.
+	        - Recursos humanos.
+	        - Patentes.
+	        - Convenios.
+
+9. **Revenue Stream:**
+
+	        - Comparten intereses con otros bancos.
+	        - Cuando desliza su tarjeta de débito, el comerciante paga una tarifa   de servicio (llamada intercambio) al banco emisor. Nuestros socios    dividen esto con nosotros.
+	        - Si usa su tarjeta Simple internacionalmente, Visa incluirá una        tarifa de Evaluación de Servicio Internacional (ISA) de hasta el 1%   del monto total de la transacción.
+
+### Conclusiones
+
+Estos tres bancos tienen una llegada al cliente muy particular, se dirigen a ellos con mucha confianza y sin formalidades. Además de esto, son sencillos de usar y aún así toman todas las medidas de seguridad que un banco necesita. 
+
+Respecto al modelo de negocio, se ve que: ninguno de ellos cobra por creación de cuenta y/o mantenimiento. Tienen reglas como ser residente del país en donde ellos están y en caso de Nubank y Simple ser mayor de 18 años, mientras Nequi acepta usuarios de 15 años a más. 
+
+Los mayores ingresos los obtienen con los bancos asociados a ellos respectivamente. También con pequeños cobros no muy sentidos en sus clientes.
+
+### 
