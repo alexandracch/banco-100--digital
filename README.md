@@ -412,19 +412,19 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
 ![Documento de Google](https://docs.google.com/document/d/1ezkSz7FM5XOsGMUFTPMEkachW6FAVkFKVsyscQ6JpPw/edit?usp=sharing)
 
 
-# Planteamiento de Research para la solución a un banco 100% digital en Perú
+#### Planteamiento de Research para la solución a un banco 100% digital en Perú
 
-## Realizado por: Silvia Puente de la Vega y Alexandra Calderón Chumbes
+##### Realizado por: Silvia Puente de la Vega y Alexandra Calderón Chumbes
 
-## Stakeholders: **Lista de stakeholders**
+##### Stakeholders: **Lista de stakeholders**
 
-## Fechas de revisión: Lunes 26 de febrero
+##### Fechas de revisión: Lunes 26 de febrero
 
 El Banco del País es uno de los bancos más importante de tu país. Es una institución de muchos años y actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millennials.
 
 El propósito de este planteamiento de investigación es encontrar sostenibilidad en nuestra propuesta: Lanzar un banco 100% digital y eco friendly, el cual sea tan sencillo que manejar que los usuarios no tengan necesidades extras y tan barato que sea accesible para todo  mayor de edad con un dispositivo smart.
 
-## Resultado de Investigaciones anteriores
+##### Resultado de Investigaciones anteriores
 
 * Nequi (Bancolombia) Banco casi 100% digital, dirigido a Millenials y bancos asociados. Las propuestas de valor de Nequi son: Facilidad de acceso, 5 formas de pagar, giros desde tu Banca por app y web, sin costo, 3 herramientas para que puedas manejar la "plata" a tu propio ritmo. Su forma de ingresos: Enviar plata de tu cuenta Nequi a bancos (salvo Bancolombia) tiene costo y sobrepasar los topes de tu cuenta.
 
@@ -442,18 +442,18 @@ El propósito de este planteamiento de investigación es encontrar sostenibilida
 
 * Un estudio de la empresa fabricante de software de notificaciones financieras, Latinia, reveló que el 40% de los millennials nunca ha pisado una sucursal bancaria y que la mayoría no está familiarizado con las funciones que cumplen las instituciones financieras, pues muchos ven ajenos conceptos como tasas, intereses y créditos. Incluso, el mismo estudio destaca que el 53% de los encuestados no piensa que su banco sea diferente al de los demás, por lo que uno de cada tres estaría dispuesto a cambiar de entidad fácilmente.
 
-## HIPÓTESIS
+##### HIPÓTESIS
 
 * Crear un banco 100% digital impulsado por el Banco del País, es factible, ya que siendo de una entidad nacional es más confiable, además el valor agregado de ser eco friendly es atractivo para los millennials y z’s. 
 
-## OBJETIVOS COMERCIALES
+##### OBJETIVOS COMERCIALES
 * ¿Cuál es el propósito de esta investigación? 
 
 * ¿Qué ayudará esta investigación a informar o resolver? 
 
 * Comprender los objetivos más amplios me ayuda a garantizar que la investigación esté diseñada para ayudar a respaldar la estrategia comercial de mi cliente. Quiero asegurarme de proporcionar datos procesables, no meramente datos interesantes.
 
-# OBJETIVOS DE LA INVESTIGACIÓN
+##### OBJETIVOS DE LA INVESTIGACIÓN
 
 * Los objetivos de investigación son diferentes de los objetivos comerciales. Aquí, bosquejo las preguntas de investigación que responderá el estudio.
 
@@ -463,18 +463,18 @@ El propósito de este planteamiento de investigación es encontrar sostenibilida
 
 * El objetivo de la investigación es comprender mejor qué información necesitan los clientes en el sitio web para tomar una decisión de compra.
 
-## Metodología de la investigación
+##### Metodología de la investigación
 
 * La metodología a usar será Design Thinking. ¿Por qué? Es una forma de crear productos y servicios que tiendan a satisfacer en mejor manera las necesidades de los usuarios haciéndolos parte activa del proceso de creación.
 * También la metodología Agile, la cual basa su desarrollo en un ciclo iterativo , en el que las necesidades y soluciones evolucionan a través de la colaboración entre los diferentes equipos involucrados en el proyecto.
 
-## Perfil del participante
+##### Perfil del participante
 
 Utilizo esta información para construir el filtro, por lo que detallo exactamente a quién queremos reclutar y a quién seleccionar. La plantilla para esta investigación es:
 
 * Varones y Mujeres nacidos entre 1981 al año 2000, con acceso a un smartphone.
 
-## Metodología de Reclutamiento
+##### Metodología de Reclutamiento
 
 * **Interceptación del sitio web**. Utilizar una invitación emergente para invitar a los visitantes a participar, luego dirigirlos a un evaluador en línea para recopilar su información de contacto.
 
@@ -488,7 +488,7 @@ Utilizo esta información para construir el filtro, por lo que detallo exactamen
 
 * **No dirigirnos a un lugar de trabajo**, porque es muy posible que se vayan. Siempre siendo respetuosos y discretos.
 
-## Incentivos
+##### Incentivos
 
 Los participantes más difíciles de reclutar obtendrán un mayor incentivo (por ejemplo, médicos, ejecutivos de negocios).
 * S/ 5 - S/15 para encuestas en línea
@@ -498,7 +498,7 @@ Los participantes más difíciles de reclutar obtendrán un mayor incentivo (por
 
 Estos montos pueden ser entregados en efectivo o con cupones de descuento, etc. 
 
-## Observadores
+##### Observadores
 
 Esta sección es especialmente crítica para las sesiones de usabilidad. Incluyo una lista de cada función que recomiendamos asistir a las sesiones y por qué son fundamentales para el éxito del estudio de usabilidad.
 * Gerentes de marketing
@@ -513,7 +513,7 @@ Esta sección es especialmente crítica para las sesiones de usabilidad. Incluyo
 Como expertos de la materia en su área, ellos saben cosas que NADIE MÁS en el equipo sabe. Su perspectiva y conocimiento únicos le permiten al facilitador recopilar y analizar mejor los datos.
 
 
-## Expectativas sobre entregas y tiempos
+##### Expectativas sobre entregas y tiempos
 1. 1ra Semana: 
 * Reclutamiento de usuarios, la cual se debe de terminar para el viernes de la misma.  
 * Alistar los incentivos.
@@ -540,7 +540,7 @@ Como expertos de la materia en su área, ellos saben cosas que NADIE MÁS en el 
 * Al final de la semana se presentará el prototipo del producto.
 
 
-## Configuración de prueba, incluidos equipos y suministros
+##### Configuración de prueba, incluidos equipos y suministros
 
 * Laptops
 
@@ -556,21 +556,21 @@ Como expertos de la materia en su área, ellos saben cosas que NADIE MÁS en el 
 
 * Plataforma remotas, en la que todo el equipo pueda ver y editar el avance del proyecto. (Repositorio de github - Google Drive).
 
-## Entregables
+##### Entregables
 
 A lo largo de la investigación se hará participar a todo el equipo, todos deben estar enterados de cómo está yendo el proyecto desde su inicio hasta el final.
 Para mantener un orden y objetivos claros, se proponen estos entregables:
 
-### 1ra semana: 
+###### 1ra semana: 
 
 * Entrega de lista de reclutados y el costo de los incentivos.
 
-### 2da semana: 
+###### 2da semana: 
 
 * Entrega de documento de información sobre toda la data encontrada en los testings a los usuarios.
 * Entrega del prototipo en papel.
 * Entrega del prototipo de alta fidelidad.
 
-### 3ra semana:
+###### 3ra semana:
 
 * Entrega de la investigación en repositorio.
