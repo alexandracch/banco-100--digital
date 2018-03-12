@@ -643,3 +643,12 @@ Esta entrevista es para conocerte un poco, sobre tu interacción con los bancos 
 ![Form](assets/img/form/Formulario-5.JPG)
 ![Form](assets/img/form/Formulario-6.JPG)
 
+#### Resultados
+
+[Carpeta de entrevistas personales](https://drive.google.com/drive/folders/1tgTpDQuvlQjGgaasxAcW8MTGvARl99aQ?usp=sharing).
+
+[Carpeta de resultados de formularios](https://drive.google.com/drive/folders/1lvlHZIKZDOm6Gxey7Z40HbXbGXOQjDVS?usp=sharing).
+
+
+
+
