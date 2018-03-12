@@ -727,17 +727,22 @@ Esta entrevista es para conocerte un poco, sobre tu interacción con los bancos 
     - Tiempo: 40 min.
     - Archivo:Brainstorming_Statements - HMW - What if – Features.xlsx
 
+![](assets/img/brainstorming.png)
+
+
 Ubicación archivo  ( link ):
 
 [Documento](https://drive.google.com/drive/folders/1pyEdGdqwjObc9B4u9gvfbmUwkplPOdyK).
 
 ## Affinity map 
-![Form](assets/img/affinitymap.png)
+![](assets/img/affinitymap.png)
 
 ## Conceptualizacion del proceso 
-![Form](assets/img/conceptualizacion.png)
+![](assets/img/conceptualizacion.png)
 
-
+## Storyboard
+![](assets/img/storyboard1.jpg)
+![](assets/img/storyboard2.jpg)
 
 
 
