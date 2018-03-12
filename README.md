@@ -2,15 +2,15 @@
 
 ![Yaku](assets/img/logo/yaku*logo.JPG)
 
-* **Track:** _Especialización UX Design_
-* **Curso:** _Conociendo los negocios_
-* **Unidad:** _Lecciones básicas de negocios_
-* **Alummnas:** _Nombres:_
+* Track: _Especialización UX Design_
+* Curso: _Conociendo los negocios_
+* Unidad: _Lecciones básicas de negocios_
+* Alummnas: _Nombres:_
 
                 * Alexandra Calderón Chumbes
                 * Silvia Puente de la Vega
 
-***
+*
 
 ## Reto
 
@@ -50,13 +50,13 @@ Además, te piden que llegues a la reunión de kick * off con un plan propuesto 
 
 ## Tiempos estimados
 
-* Investigación: **1 día**
+* Investigación: 1 día
 
 ## Flujo de trabajo
 
-Empezamos analizando el reto, por lo cual decidimos hacer una investigación previa, armando los BMC de cada uno de los bancos modelo (Nequi, Nubank y Simple); también investigar sobre las característcas de un millennial y la relación de este con la banca. Luego, hicimos un Plan de Research, un modelo de Entrevista y el BMC de nuestro nuevo banco, basándonos en lo encontrado en la investigación previa. Después, pasamos a las **entrevistas a profundidad y formularios con usuarios reales**. Con la data obtenida, se realizó un Mapa de Afinidad, en el cual se encontró que a los millennials no le gusta perder el tiempo, no les gustan los papeleos y formalidades en la banca, sí usan banca por Internet y están interesados en **un banco que sea eco friendly**. Con todo esto, pasamos a prototipar. Primero hicimos el prototipo en papel, se testeó con usuarios e iteró en base a ello. Seguido de esto, realizamos el **prototipo de alta fidelidad** digitalizado e interacctivo, el cual también se testeó y se hicieron algunas iteraciones. Este nuevo prototipo se volvió a testear y obtuvimos un mejor feedback para una siguiente mejora.
+Empezamos analizando el reto, por lo cual decidimos hacer una investigación previa, armando los BMC de cada uno de los bancos modelo (Nequi, Nubank y Simple); también investigar sobre las característcas de un millennial y la relación de este con la banca. Luego, hicimos un Plan de Research, un modelo de Entrevista y el BMC de nuestro nuevo banco, basándonos en lo encontrado en la investigación previa. Después, pasamos a las entrevistas a profundidad y formularios con usuarios reales. Con la data obtenida, se realizó un Mapa de Afinidad, en el cual se encontró que a los millennials no le gusta perder el tiempo, no les gustan los papeleos y formalidades en la banca, sí usan banca por Internet y están interesados en un banco que sea eco friendly. Con todo esto, pasamos a prototipar. Primero hicimos el prototipo en papel, se testeó con usuarios e iteró en base a ello. Seguido de esto, realizamos el prototipo de alta fidelidad digitalizado e interacctivo, el cual también se testeó y se hicieron algunas iteraciones. Este nuevo prototipo se volvió a testear y obtuvimos un mejor feedback para una siguiente mejora.
 
- **Link de Google Drive:** 
+ Link de Google Drive: 
 
     * [Carpeta de trabajo en Google Drive](https://drive.google.com/drive/folders/1*bYeooGSpoq1siLef6rUcQLmMvYNw3iA?usp=sharing) 
 
@@ -71,18 +71,18 @@ Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta 
 
 #### Business Model Canvas
 
-1. **Customer Segments:**
+1. Customer Segments:
 	          * Millenials.
             * Otros bancos asociados.
 
-2. **Customer Relationship:**
+2. Customer Relationship:
             * Automatización de la Banca (Flexibilidad).
             * Social Media.
 
-3. **Channels:**
+3. Channels:
             * App y Web.
 
-4. **Value Proposition:**
+4. Value Proposition:
             * Costo cero por creación de cuenta.
             * Facilidad de acceso.
             * 5 formas de pagar (envíos, pagar por PSE, con código QR en un       datáfono, por recarga de otro usuario, por recarga en efectivo).
@@ -91,11 +91,11 @@ Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta 
             * Los bolsillos te sirven para separar la plata (Agenda monetaria)
             * Metas de ahorro.
             * Guardadito: mini montos, fáciles de usar que Nequi te pone a la  vista. 
-5. **Key Partners:**
+5. Key Partners:
             * Bancolombia (permite sacar tu dinero sin costos, ni comisiones).
             * Bancos asociados (se cobra el 1% del movimiento).
 
-6. **Key Activities:**
+6. Key Activities:
             * Actualizar su plataforma.
             * Mantenimiento de su plataforma.
             * Investigaciones constantes para conocer al cliente colombiano y     paraguayo y sus necesidades respectiamente.
@@ -104,14 +104,14 @@ Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta 
             * Mantener relación con el Estado.
             * Mantener la seguridad del banco.
 
-7. **Key Resources:**
+7. Key Resources:
 	          * Físicos: Almacenes, oficinas, instalaciones, maquinaria, etc.
 	          * Intelectual: Patente, marca, etc.
 	          * Recursos humanos.
 	          * Finanzas: mercado, expansión.
 	          * Convenios.
 
-8. **Cost Structure:**
+8. Cost Structure:
 	          * Recursos Físicos.
 	          * Recursos Humanos.
 	          * Convenios.
@@ -122,7 +122,7 @@ Nequi surge como una iniciativa de innovación de Bancolombia, que cree en esta 
             * Expansión.
             * Maquinarias.
 
-9. **Revenue Stream:**
+9. Revenue Stream:
 	          * Enviar dinero de tu cuenta Nequi a bancos (salvo Bancolombia)        tiene costo.
 	          * Quitarle los topes a tu cuenta.
 
@@ -132,39 +132,39 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
 
 #### Business Model 
 
-1. **Customer Segments:**
+1. Customer Segments:
 
             * Millenials brasileños
             * Usuarios tecnológicos en Brasil.
             * Bancos y empresas asociadas.
 
-2. **Customer Relationship:**
+2. Customer Relationship:
 
             * Automatización de la Banca (Flexibilidad).
             * Social Media.
 
-3. **Channels:**
+3. Channels:
 
            * App y Web.
 
-4. **Value Proposition:**
+4. Value Proposition:
            * Facilidad de acceso.
            * No hay costo de creación de cuenta ni de mantenimiento.
            * Obtener la tarjeta morada de Mastercard o Nubank Mastercard, la cual es aceptada en más de 30 millones de establecimientos en todo el mundo y que también le da acceso a los beneficios de la bandera   Mastercard.
            * Nunbank Rewards, sistema de gamification con el cuál cada punto equivale a un real. Tus puntos sirven para pagar otros servicios asociados como Uber, Netflix, etc. y/o borrar historiales de movimientos.
           
-5. **Key Partners:**
+5. Key Partners:
 
            * Sequoia Capital, Kaszek Ventures, Tiger Global Managment, Founders   Fund, Goldman Sachs, QED Los inversores y DST Global.
 
-6. **Key Activities:**
+6. Key Activities:
 
            * Actualizar su plataforma
            * Mantenimiento de su plataforma
            * Servidores
            * Hacer promos y eventos 
         
-7. **Key Resources:** 
+7. Key Resources: 
 
 	         * Oficinas.
 	         * Maquinarias y Servidores.
@@ -172,7 +172,7 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
 	         * Patentes.
            * La plataforma.
 
-8. **Cost Structure:**
+8. Cost Structure:
 	         * Oficinas
 	         * Maquinarias y Servidores
 	         * Recursos humanos
@@ -180,7 +180,7 @@ Nubank es una empresa de servicios financieros que nació en Sao pablo, Brasil e
 	         * Convenios
         
 
-9. **Revenue Stream:**
+9. Revenue Stream:
 	         * Cuando el cliente realiza una compra con su tarjeta, recibe del establecimiento, a través de la bandera Mastercard, un pequeño porcentaje de ese valor.
            * Cuando el cliente escoge por financiar parte o el total del valor de su factura, recibe intereses, incluso por debajo del mercado, sobre el valor que se financió.
 
@@ -191,25 +191,25 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 
 #### Business Model Canvas
 
-1. **Customer Segments:**
+1. Customer Segments:
 	        * Millenials.
           * Otros bancos asociados.
 
-2. **Customer Relationship:**
+2. Customer Relationship:
           * Automatización de la Banca (Flexibilidad).
           * Social Media.
 
-3. **Channels:**
+3. Channels:
           * App y Web.
 
-4. **Value Proposition:**
+4. Value Proposition:
 
           * Facilidad de acceso
           * 0 Comisiones, no cobra por honorarios.
           * Giros desde tu Banca por app y web, sin costo.
           * Simple proporciona todo lo demás(Los fondos en su cuenta Simple       están en manos de uno de nuestros bancos asociados, The Bancorp       Bank o Compass Bank, Member FDIC), incluida la tarjeta Visa.
 
-5. **Key Activities:**
+5. Key Activities:
            
            * Oficinas.
 	         * Maquinarias y Servidores.
@@ -217,12 +217,12 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 	         * Patentes.
            * La plataforma.
 
-6. **Key Partners:**
+6. Key Partners:
 
            * BBVA.
            * Bancos y empresas asociadas.
 
-7. **Key Resources:**
+7. Key Resources:
 
 	         * Oficinas.
 	         * Maquinarias y Servidores.
@@ -230,7 +230,7 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 	         * Adtualizar la plataforma.
            * Investigar su mercado.
  
-8. **Cost Structure:**
+8. Cost Structure:
 
 	        * Oficinas.
 	        * Maquinarias y Servidores.
@@ -238,7 +238,7 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 	        * Patentes.
 	        * Convenios.
 
-9. **Revenue Stream:**
+9. Revenue Stream:
 
 	        * Comparten intereses con otros bancos.
 	        * Cuando desliza su tarjeta de débito, el comerciante paga una tarifa   de servicio (llamada intercambio) al banco emisor. Nuestros socios    dividen esto con nosotros.
@@ -254,21 +254,21 @@ El desarrollo de esta startup ‘fintech’ es un ejemplo de éxito dentro del s
 
 * Otro de los resultados del análisis refleja la afinidad de los millennials con la tecnología y los servicios de mensajería instantánea. La principal vía de comunicación entre estas instituciones y sus clientes son las páginas web y las aplicaciones que han desarrollado los bancos para smartphones , donde una buena o mala aplicación móvil puede sellar la imagen de la empresa frente a sus clientes más jóvenes. Entre los millennials chilenos, la red preferida por los usuarios es Facebook por sobre otras similares, como Twitter. Por cada usuario en esta última hay dos que prefieren utilizar Facebook, para enterarse de noticias y servicios disponibles en su banco.
 
-* **Apuesta digital:** Este cambio de escenario para la banca necesita de nuevas estrategias para lograr el éxito, en un mercado donde los clientes van de una institución a otra más fácilmente que antes. Por lo mismo, las prioridades han cambiado y también las inversiones en los distintos servicios que ofrecen a esta generación.
+* Apuesta digital: Este cambio de escenario para la banca necesita de nuevas estrategias para lograr el éxito, en un mercado donde los clientes van de una institución a otra más fácilmente que antes. Por lo mismo, las prioridades han cambiado y también las inversiones en los distintos servicios que ofrecen a esta generación.
 
-* **Que sea transparente:** Los Millennials quieren saber: ¿Qué van a pagar? ¿Cómo y cuándo lo van a pagar? ¿Qué productos le quieren vender? ¿El banco les está tratando de forma justa? ¿Qué representa el banco? ¿Tiene valores sociales? 
+* Que sea transparente: Los Millennials quieren saber: ¿Qué van a pagar? ¿Cómo y cuándo lo van a pagar? ¿Qué productos le quieren vender? ¿El banco les está tratando de forma justa? ¿Qué representa el banco? ¿Tiene valores sociales? 
 
-* **Quiero ser único:** Tienen un alto sentido de individualidad. Quieren consumir productos y recibir servicios completamente alineados a sus gustos y necesidades.
+* Quiero ser único: Tienen un alto sentido de individualidad. Quieren consumir productos y recibir servicios completamente alineados a sus gustos y necesidades.
 
-* **Quiero más que dinero:** Quieren más que incentivos monetarios. Los Millennials buscan valor en la “experiencia” completa que les brinda el banco de principio a fín. Toda la trayectoria de la experiencia del cliente importa.
+* Quiero más que dinero: Quieren más que incentivos monetarios. Los Millennials buscan valor en la “experiencia” completa que les brinda el banco de principio a fín. Toda la trayectoria de la experiencia del cliente importa.
 
-* **Lo quiero digitalizado:** Los procesos manuales son reliquias del pasado y no son compatibles con las expectativas de la generacion Millennial. La experiencia completa del cliente debe estar digitalizada y automatizada.
+* Lo quiero digitalizado: Los procesos manuales son reliquias del pasado y no son compatibles con las expectativas de la generacion Millennial. La experiencia completa del cliente debe estar digitalizada y automatizada.
 
-* **Quiero evolucionar:** La lealtad, los gustos y las preferencias son elementos volátiles en constante evolución. Cambiar de proveedores es fácil, y si pueden, lo harán.
+* Quiero evolucionar: La lealtad, los gustos y las preferencias son elementos volátiles en constante evolución. Cambiar de proveedores es fácil, y si pueden, lo harán.
 
-* **Lo que digan mis amigos:** Confían en personas, no en compañías. Escuchan las recomendaciones de sus amigos, de conocidos, o “influencers” por redes sociales. Cada cliente es un embajador de la marca.
+* Lo que digan mis amigos: Confían en personas, no en compañías. Escuchan las recomendaciones de sus amigos, de conocidos, o “influencers” por redes sociales. Cada cliente es un embajador de la marca.
 
-* **Quieren acceso inmediato y fácil:** A los productos y servicios que necesitan. Tienen baja tolerancia a los tiempos de espera y procesos largos. Lo quiero rápido y fácil.
+* Quieren acceso inmediato y fácil: A los productos y servicios que necesitan. Tienen baja tolerancia a los tiempos de espera y procesos largos. Lo quiero rápido y fácil.
 
 * El 71%, Recomienda sus marcas favoritas de forma activa 
 * El 47%, ha criticado una marca por Internet
@@ -319,21 +319,21 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
 ##### Banco 100% Digital “Yaku”
 
 
-1. **Customer Segments:**
+1. Customer Segments:
 
 	          * Millenials y Z's peruanos.
             * Otros bancos asociados (mayoría de bancos de la ciudad).
 
-2. **Customer Relationship:**
+2. Customer Relationship:
 
             * Automatización de la Banca (Flexibilidad).
             * Social Media (Web).
 
-3. **Channels:**
+3. Channels:
 
            * App y Web.
 
-4. **Value Proposition:**
+4. Value Proposition:
 
            * Ser un banco con conciencia social que apoye al medio ambiente.
            * Ser un banco accesible para todos, también para persoas con habilidades especiales.
@@ -351,7 +351,7 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
                                         * Departamento propio, estudios y viajes.                                       
            * Confirmación de movimientos por mensajes de texto.
 
-5. **Key Activities:**
+5. Key Activities:
 
            * Actualizar la plataforma.
            * Mantenimiento de la plataforma.
@@ -361,7 +361,7 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
            * Investigaciones frecuentes para conocer al usuario y el mercado.
            * Pago de impuestos y permisos.
 
-6. **Cost Structure:**
+6. Cost Structure:
 
 	         * Oficinas.
 	         * Maquinarias y Servidores.
@@ -371,14 +371,14 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
 	         * Promociones
            * Impuestos y permisos.
 
-7. **Key Partners:**
+7. Key Partners:
 
            * Banco del País.
            * Bancos y empresas acosiadas.
            * Empresas y emprendimientos eco friendly.
            * Servicios públicos y privados. 
 
-8. **Key Resources:**  
+8. Key Resources:  
 
 	        * Oficinas.
 	        * Maquinarias y Servidores.
@@ -386,7 +386,7 @@ Luego de la investigación previa, armamos nuestro BMC (Business Model Canvas). 
           * Servidores, Internet, etc.
           * Plataforma.
 
-9. **Revenue Stream:**
+9. Revenue Stream:
 
 	        * Por cobro único de permiso para retirar dinero en otro lugar al tu residencia.
 	        * Cobro por usar el dinero de ahorro de tus metas para otro propósito.
