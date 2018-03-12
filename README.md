@@ -731,7 +731,8 @@ Ubicación archivo  ( link ):
 
 [Documento](https://drive.google.com/drive/folders/1pyEdGdqwjObc9B4u9gvfbmUwkplPOdyK).
 
-
+## Affinity map 
+![Form](assets/img/affinitymap.png)
 
 
 
