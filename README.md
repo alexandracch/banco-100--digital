@@ -1,11 +1,17 @@
 # Yaku
 
-![Yaku](assets/img/logo/yaku-logo.JPG)
+YAKU es una App de un Banco 100% digital, con YAKU podrás realizar tus transferencias y pagos de servicios desde la comodidad de tu celular, y si deseas retiros de dinero, puedes usar los diferentes cajeros que trabajan en asociación con nosotros.
+
+![Yaku](assets/img/yaku.png)
+
 
 * **Track:** _Especialización UX Design_
 * **Curso:** _Conociendo los negocios_
 * **Unidad:** _Lecciones básicas de negocios_
-* **Alummnas:** _Nombres:_
+
+* **Alumnas:** 
+
+_Nombres:_
 
                 * Alexandra Calderón Chumbes
                 * Silvia Puente de la Vega
@@ -670,7 +676,7 @@ Para crear una mejor experiencia, se decidió armar un user persona el cual se b
 ![User Persona](assets/img/storyboard2.jpg)
 
 
-#### Prototipo en papel 
+#### Prototipo inicial en papel 
 
 ![Prototipo](assets/img/prototipo-papel/papel.jpg)
 ![Prototipo](assets/img/prototipo-papel/papel1.jpg)
@@ -691,75 +697,76 @@ Para crear una mejor experiencia, se decidió armar un user persona el cual se b
 ¿ Cómo hicimos el Prototipo de Contenido ?
 
 
-    1.-  Elaboración de propuestas de : Statements / Hmw  / What If / Features
+          1.-  Elaboración de propuestas de : Statements / Hmw  / What If / Features
 
-    - Técnica: Elaboración de cuadro
-    - Responsabilidad y participación:  
-      Silvia Puente de la Vega Vilca
-      Alexandra Calderon
+          - Técnica: Elaboración de cuadro
+          - Responsabilidad y participación:  
+            Silvia Puente de la Vega Vilca
+            Alexandra Calderon
 
-    - Fecha :19/02/2018 a 21/02/2018
-    - Tiempo:60 min c/u.
+          - Fecha :19/02/2018 a 21/02/2018
+          - Tiempo:60 min c/u.
 
-    2.-  Conversación interna  sobre propuestas:
+          2.-  Conversación interna  sobre propuestas:
 
-    - Técnica: Conversación entre las dos
-    - Responsabilidad y participación:  
-      Silvia Puente de la Vega Vilca
-      Alexandra Calderon
-    - Fecha : 23/02/2018 
-    - Tiempo: 10 min c/u.
-
-
-    3.- Elaboración y propuesta de Prototipo de contenido
-
-    - Técnica 1: Escribir posibles notas
-    - Técnica 2: Conversación en remoto
-    - Responsabilidad y participación:
-      Silvia Puente de la Vega Vilca
-      Alexandra Calderon
-    - Fecha :24/02/2018 
-    - Tiempo:30 min.
+          - Técnica: Conversación entre las dos
+          - Responsabilidad y participación:  
+            Silvia Puente de la Vega Vilca
+            Alexandra Calderon
+          - Fecha : 23/02/2018 
+          - Tiempo: 10 min c/u.
 
 
-    4.- Propuesta de prototipo de contenido  a otro grupo para recibir feedback
+          3.- Elaboración y propuesta de Prototipo de contenido
 
-    - Técnica 1:Exposición verbal directa una a una.
-    - Técnica 2:Toma de notas
-    - Responsabilidad y participación:  
-      Silvia Puente de la Vega Vilca
-      Alexandra Calderon
-    - Fecha :26/02/2018 
-    -  Tiempo:30 min.
-
-
-    5.- Coordinación para conclusiones de prototipo de contenido  en grupo : 
-    - Técnica: Reunión 
-    - Responsabilidad y participación: 	
-      Silvia Puente de la Vega Vilca
-      Alexandra Calderon
-    - Fecha:27/02/2018 Viernes
-    - Tiempo:30 min.
+          - Técnica 1: Escribir posibles notas
+          - Técnica 2: Conversación en remoto
+          - Responsabilidad y participación:
+            Silvia Puente de la Vega Vilca
+            Alexandra Calderon
+          - Fecha :24/02/2018 
+          - Tiempo:30 min.
 
 
-    6.- Actualización del cuadro de Exploración Brainstorming con técnicas : ( Statements-HMW-What if – Features )
+          4.- Propuesta de prototipo de contenido  a otro grupo para recibir feedback
 
-    - Técnicas:Recopilación y revisión de diapositivas de clase.
-    - Actividad: Integración y actualización de cuadro: 
-      statements/hmw/what if/features  incluyendo actualizaciones según coordinaciones realizadas en grupo y el proceso guía de clase y los aportes de todas las integrantes del grupo y el propio.
+          - Técnica 1:Exposición verbal directa una a una.
+          - Técnica 2:Toma de notas
+          - Responsabilidad y participación:  
+            Silvia Puente de la Vega Vilca
+            Alexandra Calderon
+          - Fecha :26/02/2018 
+          -  Tiempo:30 min.
 
-    - Responsable de elaboración:
-      Silvia Puente de la Vega Vilca
-      Alexandra Calderon
-    - Responsables de revisión:
-      Gonzalo (Teacher)
-      Silvia Puente de la Vega Vilca
-      Alexandra Calderon
-    - Fecha : 28/02/2018 
-    - Tiempo: 40 min.
-    - Archivo:Brainstorming_Statements - HMW - What if – Features.xlsx
 
-![](assets/img/brainstorming.png)
+          5.- Coordinación para conclusiones de prototipo de contenido  en grupo : 
+          - Técnica: Reunión 
+          - Responsabilidad y participación: 	
+            Silvia Puente de la Vega Vilca
+            Alexandra Calderon
+          - Fecha:27/02/2018 Viernes
+          - Tiempo:30 min.
+
+
+          6.- Actualización del cuadro de Exploración Brainstorming con técnicas : ( Statements-HMW-What if – Features )
+
+          - Técnicas:Recopilación y revisión de diapositivas de clase.
+          - Actividad: Integración y actualización de cuadro: 
+            statements/hmw/what if/features  incluyendo actualizaciones según coordinaciones realizadas en grupo y el proceso guía de clase y los aportes de todas las integrantes del grupo y el propio.
+
+          - Responsable de elaboración:
+            Silvia Puente de la Vega Vilca
+            Alexandra Calderon
+          - Responsables de revisión:
+            Gonzalo (Teacher)
+            Silvia Puente de la Vega Vilca
+            Alexandra Calderon
+          - Fecha : 28/02/2018 
+          - Tiempo: 40 min.
+          - Archivo:Brainstorming_Statements - HMW - What if – Features.xlsx
+
+
+![brainstorming](assets/img/brainstorming.png)
 
 
 Ubicación archivo  ( link ):
@@ -767,9 +774,13 @@ Ubicación archivo  ( link ):
 [Documento](https://drive.google.com/drive/folders/1pyEdGdqwjObc9B4u9gvfbmUwkplPOdyK).
 
 ## Affinity map 
+
 ![](assets/img/affinitymap.png)
 
-## Conceptualizacion del proceso 
+
+
+## Arquitectura de la información 
+
 ![](assets/img/conceptualizacion.png)
 
 
